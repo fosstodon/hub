@@ -1,0 +1,15 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO Stuff
+author: Kev Quirk
+description: This is my Jekyll website that is running Simple.css
+lang: en
+locale: en_GB
+url: "https://jekyll.simplecss.org"
+baseurl: ""
+
+# RSS feeds
+feed:
+  posts_limit: 20

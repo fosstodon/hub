@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/images/favicon.png" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+
+  <body>
+
+    <header>
+      <h1>{{ page.header }}</h1>
+      <p>{{ page.description }}</p>
+
+      {% include navigation.html %}
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>The Fosstodon Hub was made using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://simplecss.org">Simple.css</a>.</p>
+    </footer>
+
+  </body>
+</html>

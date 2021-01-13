@@ -1,0 +1,17 @@
+- name: Home
+  link: /
+
+- name: About
+  link: /about/
+
+- name: Code of Conduct
+  link: /coc/
+
+- name: Support Us
+  link: /support/
+
+- name: Contact
+  link: /contact/
+
+- name: The Team
+  link: /team/
