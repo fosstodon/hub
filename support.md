@@ -11,7 +11,7 @@ Running a project like Fosstodon can be expensive and take a lot of time. We hav
 
 [![](/assets/images/patreon.png)](https://patreon.com/fosstodon)
 
-[![](/assets/images/paypal.png)](https://paypal.me/kevquirk)
+[![](/assets/images/paypal.png)](https://paypal.me/fosstodonorg)
 
 ## Stickers
 
