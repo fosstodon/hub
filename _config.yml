@@ -3,11 +3,11 @@ plugins:
   - jekyll-sitemap
 
 # SEO Stuff
-author: Kev Quirk
-description: This is my Jekyll website that is running Simple.css
+author: Fosstodon
+description: Fosstodon Hub is an informational site tied to Fosstodon, the largest FOSS focussed Mastodon instance on the fediverse.
 lang: en
 locale: en_GB
-url: "https://jekyll.simplecss.org"
+url: "https://hub.fosstodon.org"
 baseurl: ""
 
 # RSS feeds
