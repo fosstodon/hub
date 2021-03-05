@@ -36,10 +36,9 @@ The details below are accurate as of **05th March 2021**.
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
 | Fosstodon hosting: | $85.00       |
-| Write.As hosting (hub): | $5.00       |
-| Total monthly running costs: | $90.00       |
+| Total monthly running costs: | $85.00       |
 | Current PayPal funding:        | $757.73   |
-| Total months funded:           | 8.4       |
+| Total months funded:           | 8.9       |
 | Total donations:   | $750       |
 
 ### Donations we have made
