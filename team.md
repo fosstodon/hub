@@ -34,5 +34,4 @@ Joseph is the first moderator to be added to the Fosstodon team. He is a web dev
 ### [Codesections](https://fosstodon.org/@codesections)
 “CodeSections” (AKA Daniel) is on a mission to bridge the gap between law and technology. A former attorney at a major New York law firm, Daniel now spends his days programming full time. [www.codesections.com/blog](https://www.codesections.com/blog)  
 
-### [Gina](https://fosstodon.org/@gina)
-[Gina](https://fosstodon.org/@gina) is a sysadmin for a fully #FOSS feminist non-profit based in the Netherlands. She posts daily updates about their opensource adventures. As a self-taught programmer, she is slowly starting to contribute to FOSS projects herself. Also into bouldering and cats.
+
