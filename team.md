@@ -11,7 +11,7 @@ layout: default
 Kev Quirk is one of the co-founders of Fosstodon. A keen Linux and open source advocate, you can usually find him [posting on his profile](https://fosstodon.org/@kev) about all manor of uninteresting things. You can also find him on his [personal website](https://kevq.uk).
 
 ### [Mike Stone](https://fosstodon.org/@mike)
-Mike is a husband, father, and big nerd. The other co-founder of Fosstodon and the objectively more handsome one, he’s probably posting right now about something he’s found on the Internet and thinks is interesting. Loves discussions about free and open source software/hardware, artificial intelligence, and long walks on the beach.
+Mike is a husband, father, and big nerd. The other co-founder of Fosstodon, he’s probably posting right now about something he’s found on the Internet and thinks is interesting. Loves discussions about free and open source software/hardware, artificial intelligence, and long walks on the beach.
 
 <br>
 <hr>
