@@ -73,6 +73,7 @@ header {
 	border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
+  box-sizing: border-box;
 }
 
 /* Reduces header padding on smaller screens */
