@@ -37,9 +37,10 @@ The details below are accurate as of **23rd June 2021**.
 |:------------------------------:|:------------:|
 | Fosstodon hosting: | $85.00       |
 | CDN hosting: | $20.00       |
-| Total monthly running costs: | $105.00       |
+| MatterMost Server: | $5.00       |
+| Total monthly running costs: | $110.00       |
 | Current PayPal funding:        | $617.97   |
-| **Total months funded:**           | **5.8**      |
+| **Total months funded:**           | **5.6**      |
 
 ### Donations we have made
 
