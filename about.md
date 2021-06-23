@@ -31,15 +31,15 @@ We will then post details of any donations made to this page.
 
 ## Current funding
 
-The details below are accurate as of **05th March 2021**.
+The details below are accurate as of **23rd June 2021**.
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
 | Fosstodon hosting: | $85.00       |
-| Total monthly running costs: | $85.00       |
-| Current PayPal funding:        | $757.73   |
-| Total months funded:           | 8.9       |
-| Total donations:   | $750       |
+| CDN hosting: | $20.00       |
+| Total monthly running costs: | $105.00       |
+| Current PayPal funding:        | $617.97   |
+| **Total months funded:**           | **5.8**      |
 
 ### Donations we have made
 
@@ -52,3 +52,5 @@ The details below are accurate as of **05th March 2021**.
 |  Software Freedom Conservancy                  |  11 Jul 20    | $200                |
 |  Electronic Frontier Foundation                 |  19 Nov 20    | $200                |
 |  Tor Project                  |  19 Nov 20    | $200                |
+
+| **Total donations:**   |  $750       |
