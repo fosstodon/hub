@@ -1,6 +1,10 @@
 /* Import the main SimpleCSS stylesheet */
 @import url("https://cdn.simplecss.org/simple.min.css");
 
+:root {
+  --dark-red: #951818;
+}
+
 nav a:hover,
 nav a.current {
   color: var(--accent) !important;
@@ -44,4 +48,43 @@ nav a.current:hover {
 
 .button:hover {
 	opacity: .8;
+}
+
+/****** Format the notice boxes ******/
+
+.notice {
+  background: var(--accent);
+  color: var(--bg);
+  padding: 1rem 2rem;
+}
+
+.notice a {
+  color: var(--bg) !important;
+  text-decoration: underline;
+  text-decoration-thickness: .15rem;
+}
+
+.notice a:hover {
+  text-decoration-style: dotted;
+}
+
+.notice code,
+.notice-red code {
+  color: var(--bg);
+}
+
+.notice-red {
+  background: var(--dark-red);
+  color: #fff;
+  padding: 1rem 2rem;
+}
+
+.notice-red a {
+  color: #fff !important;
+  text-decoration: underline;
+  text-decoration-thickness: .15rem;
+}
+
+.notice-red a:hover {
+  text-decoration-style: dotted;
 }
