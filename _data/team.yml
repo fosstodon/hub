@@ -21,7 +21,7 @@
 - name: Codesections
   role: Moderator
   link: https://fosstodon.org/@codesections
-  description: “CodeSections” (AKA Daniel) is on a mission to bridge the gap between law and technology. A former attorney at a major New York law firm, Daniel now spends his days programming full time. [www.codesections.com/blog](https://www.codesections.com/blog)
+  description: “CodeSections” (AKA Daniel) is on a mission to bridge the gap between law and technology. A former attorney at a major New York law firm, Daniel now spends his days programming full time. <a target="blank" href="https://www.codesections.com/blog">https://www.codesections.com/blog</a>
 
 - name: Hund
   role: Moderator
