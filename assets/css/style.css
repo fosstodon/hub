@@ -88,3 +88,39 @@ nav a.current:hover {
 .notice-red a:hover {
   text-decoration-style: dotted;
 }
+
+/* Format the team banners */
+.team-banner {
+  background: var(--accent-bg);
+  border: 3px solid var(--accent);
+  position: relative;
+  margin: .5rem .5rem 0 0;
+  padding: 1rem;
+  width: 42%;
+  height: 350px;
+  float: left;
+}
+
+/* Make full width on mobile screens */
+@media only screen and (max-width: 700px)  {
+  .team-banner {
+    float: none;
+    margin: .5rem auto;
+    width: 90%;
+    height: auto;
+  }
+  .team-banner span {
+    position: relative;
+  }
+}
+
+.team-banner p {
+  margin-bottom: .5em;
+  font-size: 1rem;
+}
+
+.team-title {
+  font-size: 1.4em !important;
+  font-weight: bold;
+  margin: 0;
+}

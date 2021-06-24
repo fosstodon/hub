@@ -1,0 +1,9 @@
+{% for member in site.data.team %}
+<div class="team-banner">
+    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <p><b>Role:</b> {{ member.role }}</p>
+    <p>{{ member.description }}</p>
+  </div>
+{% endfor %}
+
+<div style="clear: both;"></div>
