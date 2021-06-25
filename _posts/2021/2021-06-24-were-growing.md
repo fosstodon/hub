@@ -12,7 +12,7 @@ You're probably aware that we [recently decided to go to an invite only model](h
 
 This was a gamble as we weren't sure if this would put any legitimate new members off. We're happy to report that our gamble worked. The change has had a dramatic impact on the spam accounts we're seeing, and therefore the amount of reports we're having to process. We're still seeing steady growth too, so all in all this was win/win we think.
 
-With more growth comes more cost though. Last year we [moved away from CloudFlare](https://hub.fosstodon.org/moving-away-from-cloudflare/) for our CDN, and we moved to [BunnyCDN](https://bunnycdn.com/?ref=gnn7bkvipc). This was a great move - Bunny provides a fantastic service, and we managed to get from under the monolith that is CloudFlare.
+With more growth comes more cost though. Last year we [moved away from CloudFlare](https://hub.fosstodon.org/moving-away-from-cloudflare/) for our CDN, and we moved to [BunnyCDN](https://bunnycdn.com/?ref=gnn7bkvipc). This was a great move - Bunny provides a fantastic service, and we managed to get out from under the monolith that is CloudFlare.
 
 We also stood up a Mattermost server for the team to collaborate in, and for us to share ideas, feedback and general chit-chat with our Patrons.
 
@@ -24,7 +24,7 @@ So we earn approximately **$130/month** from Patreon and Liberpay, but we pay ou
 
 ## We need your help
 
-As many of you know, any spare funds he have over our 6 month float get accumulated and donated to open source projects. So we're not trying to line our own pockets here - I just want to make that clear up front.
+As many of you know, any spare funds we have over our 6 month float get accumulated and donated to open source projects. So we're not trying to line our own pockets here - I just want to make that clear up front.
 
 If you find Fosstodon useful, and want to see it continue to grow from strength to strength, it would be **AMAZING** if you could throw a donation our way to help keep the lights on.
 
