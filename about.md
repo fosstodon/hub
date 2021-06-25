@@ -38,8 +38,8 @@ The details below are accurate as of **23rd June 2021**.
 | Fosstodon hosting: | $90.00       |
 | CDN hosting: | $20.00       |
 | Mattermost server: | $5.00       |
-| Total monthly running costs: | $115.00       |
-| Current PayPal funding:        | $617.97   |
+| **Total monthly running costs:** | **$115.00**      |
+| **Current PayPal funding:**       | **$617.97**   |
 | **Total months funded:**           | **5.6**      |
 
 ### Donations we have made
@@ -54,4 +54,4 @@ The details below are accurate as of **23rd June 2021**.
 |  Electronic Frontier Foundation                 |  19 Nov 20    | $200                |
 |  Tor Project                  |  19 Nov 20    | $200                |
 
-| **Total donations:**   |  $750       |
+| **Total donations made:**   |  **$750**       |
