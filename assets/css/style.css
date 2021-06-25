@@ -124,3 +124,12 @@ nav a.current:hover {
   font-weight: bold;
   margin: 0;
 }
+
+.team-avatar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 64px;
+  border-radius: 50%;
+  padding: 1rem;
+}
