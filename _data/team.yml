@@ -16,12 +16,6 @@
   link: https://fosstodon.org/@cooper
   description: Cooper is a PC Gamer, father, husband, and all-around down to earth kind of guy. He's an IT Professional, by day and The Fosstodon.org Community Manager, by night... well, he does that during the day, as well. Cooper has extensive experience with managing other communities and managing an amazing beard.
 
-- name: Joseph Defazio
-  role: Moderator
-  avatar: /assets/images/avatars/joseph.png
-  link: https://fosstodon.org/@joseph
-  description: Joseph is the first moderator to be added to the Fosstodon team. He is a web developer, father, owner of cool hair, helping kids living in poverty in the Philippines.
-
 - name: Codesections
   role: Moderator
   avatar: /assets/images/avatars/codesections.png
@@ -33,6 +27,12 @@
   avatar: /assets/images/avatars/hund.png
   link: https://fosstodon.org/@hund
   description: Hund is a minimalist, slow-tech philosopher, and environmentalist. He's a an advocate for ethical/ libre software and a Neovim cultist. When he's not philisophizing about the "Worse is better" movement, KISS, or UNIX, he spends his time enjoying art projects and designing/building keyboards. Make sure to check out some of his custom keycaps and handy board work.
+
+- name: Joseph Defazio
+  role: Moderator
+  avatar: /assets/images/avatars/joseph.png
+  link: https://fosstodon.org/@joseph
+  description: Joseph is the first moderator to be added to the Fosstodon team. He is a web developer, father, owner of cool hair, helping kids living in poverty in the Philippines.
 
 - name: Tayo
   role: Moderator
