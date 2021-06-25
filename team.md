@@ -5,5 +5,5 @@ description: A list of the Fosstodon team members and their roles.
 permalink: /team/
 layout: default
 ---
-<br>
+
 {% include team.html %}
