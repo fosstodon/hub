@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Once Again You've Done It
-# This is the title that shows in the header (usually the same as page title)
-header: Once Again You've Done It
 # This is the description that shows in the page header
 description: Details of our 4th round of donations to open source projects.
 # Set a permalink here

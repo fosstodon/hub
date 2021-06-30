@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Another round of donations
-# This is the title that shows in the header (usually the same as page title)
-header: Another round of donations
 # This is the description that shows in the page header
 description: Yet again, we're donating some spare funds to open source projects.
 # Set a permalink here

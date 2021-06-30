@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: We're Not Just FOSS
-# This is the title that shows in the header (usually the same as page title)
-header: We're not Just FOSS
 # This is the description that shows in the page header
 description: People come to Fosstodon for so much more than just FOSS.
 # Set a permalink here

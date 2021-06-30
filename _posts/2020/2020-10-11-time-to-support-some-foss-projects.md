@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Time To Support Some FOSS Projects
-# This is the title that shows in the header (usually the same as page title)
-header: Time To Support Some FOSS Projects
 # This is the description that shows in the page header
 description: Here we go again...another round of FOSS project donations! :-)
 # Set a permalink here

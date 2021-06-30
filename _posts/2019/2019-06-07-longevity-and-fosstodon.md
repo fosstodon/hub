@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Longevity and Fosstodon
-# This is the title that shows in the header (usually the same as page title)
-header: Longevity and Fosstodon
 # This is the description that shows in the page header
 description: We're not planning on going anywhere, but if we do, we have a plan.
 # Set a permalink here

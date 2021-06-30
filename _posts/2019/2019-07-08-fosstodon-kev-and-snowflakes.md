@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Fosstodon, Kev & 'Snowflakes'
-# This is the title that shows in the header (usually the same as page title)
-header: Fosstodon, Kev & 'Snowflakes'
 # This is the description that shows in the page header
 description: There's been some drama around Kev's use of the word 'snowflakes'. Here's his response...
 # Set a permalink here

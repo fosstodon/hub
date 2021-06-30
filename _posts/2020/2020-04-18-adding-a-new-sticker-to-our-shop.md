@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Adding A New Sticker To Our Shop
-# This is the title that shows in the header (usually the same as page title)
-header: Adding A New Sticker To Our Shop
 # This is the description that shows in the page header
 description: More sticky swag for you to enjoy!
 # Set a permalink here

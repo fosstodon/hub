@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: We Just Made Our First Donation!
-# This is the title that shows in the header (usually the same as page title)
-header: We Just Made Our First Donation!
 # This is the description that shows in the page header
 description: Making donations to open source projects is a nice feeling. Hopefully this is our first of many!
 # Set a permalink here
