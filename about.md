@@ -1,10 +1,10 @@
 ---
 title: About | Fosstodon Hub
-header: About Us
 description: Some info on how things work around here.
 permalink: /about/
 layout: default
 ---
+# About Us
 
 The whole point of Fosstodon is to be a community of like-minded people who enjoy Free & Open Source Software (FOSS). Running a social network can be expensive, so [we accept donations in various forms](/support).
 

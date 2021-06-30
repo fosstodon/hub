@@ -1,11 +1,10 @@
 ---
 title: Contact | Fosstodon Hub
-header: Contact Us
 description: Want to get in touch? This page tells you how.
 permalink: /contact/
 layout: default
 ---
-#### There are a number of ways to contact the Fosstodon team.
+# Contact Us
 
 The quickest and easiest way to get in touch with us is to @ mention within the community. A full list of team members and links to their Fosstodon profiles can be [found here](/team).
 

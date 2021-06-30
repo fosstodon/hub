@@ -1,10 +1,11 @@
 ---
 title: Support Fosstodon
-header: Support Fosstodon
 description: Information on how you can help keep the lights on.
 permalink: /support/
 layout: default
 ---
+# Support Us
+
 Running a project like Fosstodon can be expensive and take a lot of time. We have a fantastic team of volunteers to help moderate and manage Fosstodon, but if you want to help support the project financially you can do so in a number of ways:
 
 <p style="margin:2rem 0; text-align:center;"><a style="background:#FBC02D; color:#212121 !important; font-weight:bold; font-size:1.3rem;" class="button" target="blank" href="https://liberapay.com/fosstodon">Donate on LiberaPay</a></p>
