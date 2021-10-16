@@ -1,10 +1,10 @@
 ---
 title: CoC | Fosstodon Hub
-header: Code of Conduct
 description: Guidelines on how we expect our members to behave.
 permalink: /coc/
 layout: default
 ---
+# Code of Conduct
 
 This document lays out the ground rules for participating in the Fosstodon community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the [Fosstodon team](/team) may amend this CoC to better meet these goals in the future.
 
@@ -48,7 +48,7 @@ All toots (public and private) should abide by the following rules:
 * Do not post adult content, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
 * Do not post spam. A toot that is nothing other than a link constitutes spam, as does any overly commercial self-promotion. (It is fine, however, to toot about your own projects and share what you are excited to be working on — just keep the toot itself interesting).
 * Do not use automated tools to toot without participating in the community. It is fine to post with an automated tool (e.g., a Twitter cross-poster) so long as you are an active member of the Fosstodon community and respond to replies you receive here. However, unmonitored accounts that post automatically are not acceptable.
-* Do not ["shitpost"](https://en.wikipedia.org/wiki/Shitposting) - while humorous posts are allowed, and actually encouraged, there is no place for "shitposting" on Fosstodon. 
+* Do not ["shitpost"](https://en.wikipedia.org/wiki/Shitposting) - while humorous posts are allowed, and actually encouraged, there is no place for "shitposting" on Fosstodon.
 
 ## Additional Rules for Public Toots
 

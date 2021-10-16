@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Moderation Update
-# This is the title that shows in the header (usually the same as page title)
-header: Moderation Update
 # This is the description that shows in the page header
 description: An update on how we're moderating things in our little corner of the fediverse.
 # Set a permalink here

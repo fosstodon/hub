@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Donation Results - Round 3
-# This is the title that shows in the header (usually the same as page title)
-header: Donation Results - Round 3
 # This is the description that shows in the page header
 description: Here's the results of our third round of donations to open source projects.
 # Set a permalink here

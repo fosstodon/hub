@@ -1,6 +1,5 @@
 ---
 title: Five Things To Do After You Join Fosstodon
-header: Five Things To Do After You Join Fosstodon
 description: Useful tips to get you started with Fosstodon and our amazing community.
 permalink: /five-things-to-do-after-you-join-fosstodon/
 layout: post

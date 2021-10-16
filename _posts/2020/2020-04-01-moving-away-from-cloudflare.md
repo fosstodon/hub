@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Moving Away From Cloudflare
-# This is the title that shows in the header (usually the same as page title)
-header: Moving Away From Cloudflare
 # This is the description that shows in the page header
 description: A lot of people in open source don't like Cloudflare, so we stopped using it.
 # Set a permalink here

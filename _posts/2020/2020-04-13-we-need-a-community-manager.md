@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: We Need A Community Manager
-# This is the title that shows in the header (usually the same as page title)
-header: We Need A Community Manager
 # This is the description that shows in the page header
 description: We're growing the team and Fosstodon needs a Community Manager. You interested?
 # Set a permalink here

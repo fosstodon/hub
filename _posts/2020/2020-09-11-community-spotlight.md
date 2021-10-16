@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Community Spotlight
-# This is the title that shows in the header (usually the same as page title)
-header: Community Spotlight
 # This is the description that shows in the page header
 description: Have a project that you think needs some exposure? We might be able to help.
 # Set a permalink here

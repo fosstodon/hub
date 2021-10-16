@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: We Need Your Support Please
-# This is the title that shows in the header (usually the same as page title)
-header: We Need Your Support Please
 # This is the description that shows in the page header
 description: We want to make sure Fosstodon stays around for the foreseeable future, but we need your help.
 # Set a permalink here

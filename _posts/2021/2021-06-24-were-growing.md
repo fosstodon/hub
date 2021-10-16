@@ -1,6 +1,5 @@
 ---
 title: We're Growing, But We Need Your Help!
-header: We're Growing, But We Need Your Help!
 description: Fosstodon is going from strength to strength, but in order to keep that up, we need your help.
 permalink: /were-growing-but-we-need-your-help/
 layout: post

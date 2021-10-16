@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: We Asked, You Answered
-# This is the title that shows in the header (usually the same as page title)
-header: We Asked, You Answered
 # This is the description that shows in the page header
 description: Thank you all so, so much!
 # Set a permalink here

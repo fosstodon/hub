@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Thank You For Your Reports
-# This is the title that shows in the header (usually the same as page title)
-header: Thank You For Your Reports
 # This is the description that shows in the page header
 description: Reporting troublesome toots really helps us, so thank you.
 # Set a permalink here

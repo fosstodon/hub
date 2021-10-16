@@ -1,6 +1,5 @@
 ---
 title: New Patron's Keybase Team
-header: New Patron's Keybase Team
 description: If you're a Patron, you now get exclusive access to a private Keybase team.
 permalink: /new-patrons-keybase-team/
 layout: post

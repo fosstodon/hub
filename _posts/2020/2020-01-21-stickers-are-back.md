@@ -1,8 +1,6 @@
 ---
 # This is the page title
 title: Stickers are back!
-# This is the title that shows in the header (usually the same as page title)
-header: Stickers are back!
 # This is the description that shows in the page header
 description: If you want some cool sticky Fosstodon swag, we got you covered.
 # Set a permalink here
