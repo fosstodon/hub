@@ -46,7 +46,7 @@ All toots (public and private) should abide by the following rules:
 * Do not harass anyone, participate in group harassment of anyone, or otherwise engage in personal attacks. Posting or threatening to post other people’s personally identifying information ("doxing") constitutes harassment.
 * Do not be intentionally antagonistic. A post or reply designed to provoke a confrontation is not acceptable.
 * Do not post adult content, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
-* Do not post spam. A toot that is nothing other than a link constitutes spam, as does any overly commercial self-promotion. (It is fine, however, to toot about your own projects and share what you are excited to be working on — just keep the toot itself interesting).
+* Do not post spam. A toot that is nothing other than a link or contains an inordinate number of hashtags constitutes spam, as does any overly commercial self-promotion. (It is fine, however, to toot about your own projects and share what you are excited to be working on — just keep the toot itself interesting).
 * Do not use automated tools to toot without participating in the community. It is fine to post with an automated tool (e.g., a Twitter cross-poster) so long as you are an active member of the Fosstodon community and respond to replies you receive here. However, unmonitored accounts that post automatically are not acceptable.
 * Do not ["shitpost"](https://en.wikipedia.org/wiki/Shitposting) - while humorous posts are allowed, and actually encouraged, there is no place for "shitposting" on Fosstodon.
 
