@@ -1,9 +1,9 @@
 ---
 # This is the page title
-title:
+title: Something
 
 # This is the description that shows in the page header
-description:
+description: Something else
 
 # Set a permalink here
 permalink: /something/

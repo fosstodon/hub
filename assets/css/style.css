@@ -163,3 +163,18 @@ nav a.current:hover {
   color: var(--text-light);
   line-height: 1.3;
 }
+
+.center {
+  text-align: center;
+}
+
+.icon {
+  vertical-align: sub;
+  padding-right: .25rem;
+  display: inline-block;
+  width: 1.2em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}

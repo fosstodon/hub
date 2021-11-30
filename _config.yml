@@ -9,6 +9,7 @@ lang: en
 locale: en_GB
 url: "https://hub.fosstodon.org"
 baseurl: ""
+permalink: :title
 
 # RSS feeds
 feed:
