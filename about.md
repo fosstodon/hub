@@ -31,7 +31,7 @@ We will then post details of any donations made to this page.
 
 ## Current funding
 
-The details below are accurate as of **29th June 2021**.
+The details below are accurate as of **30th November 2021**.
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
@@ -39,8 +39,8 @@ The details below are accurate as of **29th June 2021**.
 | CDN hosting: | $20.00       |
 | Mattermost server: | $5.00       |
 | **Current monthly operating costs:** | **$115.00**      |
-| **Current PayPal funding:**       | **$1,016.74** |
-| **Total months funded:**           | **8.8**   |
+| **Current PayPal funding:**       | **$834.00** |
+| **Total months funded:**           | **7.2**   |
 
 ### Donations we have made
 
@@ -53,5 +53,7 @@ The details below are accurate as of **29th June 2021**.
 |  Software Freedom Conservancy                  |  11 Jul 20    | $200                |
 |  Electronic Frontier Foundation                 |  19 Nov 20    | $200                |
 |  Tor Project                  |  19 Nov 20    | $200                |
+|  postmarketOS                 |  24 Nov 20    | $300                |
+|  European Digital Rights                  |  24 Nov 20    | $300                |
 
-| **Total donations made:**   |  **$750**       |
+| **Total donations made:**   |  **$1,750**       |
