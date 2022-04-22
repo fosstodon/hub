@@ -21,3 +21,9 @@
   avatar: /assets/images/avatars/tayo.png
   link: https://fosstodon.org/@Tay0
   description: Tayo is a husband, father, IT professional at a large utility company, 3Dprinting enthusiast and part time rancher (living beyond the sidewalks and off the grid in very rural Texas). In his spare time he enjoys grilling hamburgers, playing with grandkids and making different things. In addition, he's trying to give Cooper some competition on the awesome beard front.
+
+- name: Ru
+  role: Moderator
+  avatar: /assets/images/avatars/ru.png
+  link: https://fosstodon.org/@ru
+  description: Freelance Django web developer using Apple products. Likes a lot of things but isn't super obsessive about any of it.
