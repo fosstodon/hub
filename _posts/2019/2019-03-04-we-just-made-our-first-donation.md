@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: We Just Made Our First Donation!
+author: kev
 # This is the description that shows in the page header
 description: Making donations to open source projects is a nice feeling. Hopefully this is our first of many!
 # Set a permalink here

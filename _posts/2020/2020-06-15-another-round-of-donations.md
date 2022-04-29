@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Another round of donations
+author: kev
 # This is the description that shows in the page header
 description: Yet again, we're donating some spare funds to open source projects.
 # Set a permalink here

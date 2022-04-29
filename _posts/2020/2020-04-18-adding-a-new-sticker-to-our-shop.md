@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Adding A New Sticker To Our Shop
+author: kev
 # This is the description that shows in the page header
 description: More sticky swag for you to enjoy!
 # Set a permalink here

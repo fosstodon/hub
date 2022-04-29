@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Fosstodon, Kev & 'Snowflakes'
+author: kev
 # This is the description that shows in the page header
 description: There's been some drama around Kev's use of the word 'snowflakes'. Here's his response...
 # Set a permalink here

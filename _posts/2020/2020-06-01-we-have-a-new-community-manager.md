@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: We Have A New Community Manager
+author: kev
 # This is the description that shows in the page header
 description: We have managed to fill the position for our new community manager.
 # Set a permalink here

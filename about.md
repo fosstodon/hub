@@ -31,16 +31,16 @@ We will then post details of any donations made to this page.
 
 ## Current funding
 
-The details below are accurate as of **30th November 2021**.
+The details below are accurate as of **29th April 2022**.
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
-| Fosstodon hosting: | $90.00       |
+| Fosstodon hosting: | $220.00       |
 | CDN hosting: | $20.00       |
 | Mattermost server: | $5.00       |
-| **Current monthly operating costs:** | **$115.00**      |
-| **Current PayPal funding:**       | **$834.00** |
-| **Total months funded:**           | **7.2**   |
+| **Current monthly operating costs:** | **$245.00**      |
+| **Current PayPal funding:**       | **$864.10** |
+| **Total months funded:**           | **3.52**   |
 
 ### Donations we have made
 

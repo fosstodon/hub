@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: We Asked, You Answered
+author: kev
 # This is the description that shows in the page header
 description: Thank you all so, so much!
 # Set a permalink here

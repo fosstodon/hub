@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Moving Away From Cloudflare
+author: kev
 # This is the description that shows in the page header
 description: A lot of people in open source don't like Cloudflare, so we stopped using it.
 # Set a permalink here

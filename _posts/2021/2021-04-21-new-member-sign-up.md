@@ -1,5 +1,6 @@
 ---
 title: New member sign up
+author: kev
 description: We've made an adjustment to the way new members sign up and it's already been a huge help.
 permalink: /new-member-sign-up/
 layout: post
