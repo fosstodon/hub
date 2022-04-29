@@ -36,7 +36,7 @@ It all started on Monday evening as the news of Musk's takeover of Twitter broke
 
 We then started to notice a *significant* uptick in new account requests. To give you an idea, we get around 20 new account requests on an average day. Once the news broke, we started to see approximately 1 new account request **every minute**.
 
-By way of a side note; every account request is manually reviewed and approved/denied. This is to stop spammers and bots from getting on our server. So you can imaging that this a **a lot** of work for [our small team](/team).
+By way of a side note; every account request is manually reviewed and approved/denied. This is to stop spammers and bots from getting on our server. So you can imagine that this a **a lot** of work for [our small team](/team).
 
 Anyway, Mike took himself off and had a look at the Sidekiq queue and could see there was a couple  thousand jobs in the backlog.
 
