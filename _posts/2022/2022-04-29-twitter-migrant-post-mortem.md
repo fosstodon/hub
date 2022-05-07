@@ -36,7 +36,7 @@ It all started on Monday evening as the news of Musk's takeover of Twitter broke
 
 We then started to notice a *significant* uptick in new account requests. To give you an idea, we get around 20 new account requests on an average day. Once the news broke, we started to see approximately 1 new account request **every minute**.
 
-By way of a side note; every account request is manually reviewed and approved/denied. This is to stop spammers and bots from getting on our server. So you can imaging that this a **a lot** of work for [our small team](/team).
+By way of a side note; every account request is manually reviewed and approved/denied. This is to stop spammers and bots from getting on our server. So you can imagine that this a **a lot** of work for [our small team](/team).
 
 Anyway, Mike took himself off and had a look at the Sidekiq queue and could see there was a couple  thousand jobs in the backlog.
 
@@ -60,7 +60,7 @@ Hugo and I, who are both in Europe, went off to bed and Mike carried on monitori
 We're still on 30 threads, all of which are busy and we now have a whopping backlog of **157,523 which was rising!**
 
 ## Upgrade number 2
-At this point, we got back in touch with Hugo from Masto.host who explained that there was no more juice left in that server. So if we wanted more threads, we needed to migrate to an entirely new server, which would come with around 2-3 hours of downtime.
+At this point, we got back in touch with Hugo from Masto.host who explained that there was no more juice left in that server. So if we wanted more threads, we needed to migrate to an entirely new server, which would take around 2-3 hours to complete, but without downtime.
 
 The team and I took this away and discussed it, but to be honest, there was no discussion to be had. We needed to do this upgrade to keep Fosstodon running. So we agreed and Hugo got to work.
 
