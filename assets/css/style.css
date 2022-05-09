@@ -69,31 +69,18 @@ nav a.current:hover {
 	opacity: .8;
 }
 
-.page-title {
+.post-title {
   line-height: 1.3;
+  margin-bottom: 0;
 }
 
 /****** Format the notice boxes ******/
 
 .notice {
-  background: var(--accent);
-  color: var(--bg);
+  background: var(--accent-bg);
   padding: 1rem 2rem;
-}
-
-.notice a {
-  color: var(--bg) !important;
-  text-decoration: underline;
-  text-decoration-thickness: .15rem;
-}
-
-.notice a:hover {
-  text-decoration-style: dotted;
-}
-
-.notice code,
-.notice-red code {
-  color: var(--bg);
+  border: 2px solid var(--text);
+  margin: 3rem 0;
 }
 
 .notice-red {

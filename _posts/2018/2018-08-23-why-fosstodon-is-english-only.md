@@ -1,5 +1,6 @@
 ---
 title: Why Fosstodon Is English Only
+author: kev
 description: An explaination as to why Fosstodon is an English only instance.
 permalink: /why-fosstodon-is-english-only/
 layout: post

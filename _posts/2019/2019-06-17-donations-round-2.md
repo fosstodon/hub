@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Donations - Round 2
+author: kev
 # This is the description that shows in the page header
 description: This is our second round of open source donations - it's very exciting!
 # Set a permalink here

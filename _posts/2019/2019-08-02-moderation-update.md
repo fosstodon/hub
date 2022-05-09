@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Moderation Update
+author: kev
 # This is the description that shows in the page header
 description: An update on how we're moderating things in our little corner of the fediverse.
 # Set a permalink here

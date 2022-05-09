@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Community Spotlight
+author: kev
 # This is the description that shows in the page header
 description: Have a project that you think needs some exposure? We might be able to help.
 # Set a permalink here

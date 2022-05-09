@@ -1,6 +1,6 @@
 ---
 title: Time to show some FOSS love!
-header: Time to show some FOSS love!
+author: cooper
 description: FOSS project donation time!
 permalink: /time-to-show-some-foss-love/
 layout: post

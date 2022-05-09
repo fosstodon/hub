@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Stickers are back!
+author: kev
 # This is the description that shows in the page header
 description: If you want some cool sticky Fosstodon swag, we got you covered.
 # Set a permalink here

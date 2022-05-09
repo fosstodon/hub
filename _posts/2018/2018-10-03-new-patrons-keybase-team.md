@@ -1,5 +1,6 @@
 ---
 title: New Patron's Keybase Team
+author: kev
 description: If you're a Patron, you now get exclusive access to a private Keybase team.
 permalink: /new-patrons-keybase-team/
 layout: post
@@ -34,7 +35,7 @@ The first thing you need to do is sign up for a KeyBase account (it's free), the
 
 Note the region of the world where we're all based. For a quick response, please try and message one of the team that is most likely to be online.
 
-Alternatively you can email [team@fosstodon.org](mailto:team@fosstodon.org) and one of us will respond.
+Alternatively you can email [mail@fosstodon.org](mailto:mail@fosstodon.org) and one of us will respond.
 
 Once we have your message, we will check that the details you have provided match those on your Fosstodon account (we may also message you on Fosstodon for additional verification). Once we know it's really you, and you're an active Patron, you will be added to the KeyBase Team.
 

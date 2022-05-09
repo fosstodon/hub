@@ -1,6 +1,7 @@
 ---
 # This is the page title
 title: Donation Results - Round 3
+author: kev
 # This is the description that shows in the page header
 description: Here's the results of our third round of donations to open source projects.
 # Set a permalink here
