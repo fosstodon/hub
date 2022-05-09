@@ -53,7 +53,7 @@ The details below are accurate as of **30th November 2021**.
 |  Software Freedom Conservancy                  |  11 Jul 20    | $200                |
 |  Electronic Frontier Foundation                 |  19 Nov 20    | $200                |
 |  Tor Project                  |  19 Nov 20    | $200                |
-|  postmarketOS                 |  24 Nov 20    | $300                |
-|  European Digital Rights                  |  24 Nov 20    | $300                |
+|  postmarketOS                 |  24 Nov 21    | $300                |
+|  European Digital Rights                  |  24 Nov 21    | $300                |
 
 | **Total donations made:**   |  **$1,750**       |
