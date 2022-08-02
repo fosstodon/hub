@@ -31,16 +31,16 @@ We will then post details of any donations made to this page.
 
 ## Current funding
 
-The details below are accurate as of **29th April 2022**.
+The details below are accurate as of **02nd August 2022**.
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
 | Fosstodon hosting: | $220.00       |
-| CDN hosting: | $20.00       |
+| CDN hosting: | $25.00       |
 | Mattermost server: | $5.00       |
-| **Current monthly operating costs:** | **$245.00**      |
-| **Current PayPal funding:**       | **$864.10** |
-| **Total months funded:**           | **3.52**   |
+| **Current monthly operating costs:** | **$250.00**      |
+| **Current PayPal funding:**       | **$1,060** |
+| **Total months funded:**           | **4.24**   |
 
 ### Donations we have made
 
@@ -56,4 +56,4 @@ The details below are accurate as of **29th April 2022**.
 |  postmarketOS                 |  24 Nov 21    | $300                |
 |  European Digital Rights                  |  24 Nov 21    | $300                |
 
-| **Total donations made:**   |  **$1,750**       |
+**Total donations made: $1,750**
