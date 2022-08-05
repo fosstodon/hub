@@ -48,7 +48,7 @@ To celebrate *Five Years of Fosstodon* we decided to make some stickers, which a
 
 ![5 years sticker example](/assets/images/5-year-sticker-example.webp)
 
-<p style="margin:3rem 0; text-align:center;"><a style="background:#FBC02D; color:#212121 !important; font-size:1.3rem;" class="button" target="blank" href="https://www.designbyhumans.com/shop/sticker/five-years-of-fosstodon/1850582/"><svg viewBox="0 0 32 32"><path d="M12 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><path d="M32 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><path d="M32 16v-12h-24c0-1.105-0.895-2-2-2h-6v2h4l1.502 12.877c-0.915 0.733-1.502 1.859-1.502 3.123 0 2.209 1.791 4 4 4h24v-2h-24c-1.105 0-2-0.895-2-2 0-0.007 0-0.014 0-0.020l26-3.98z"></path></svg> BUY STICKERS NOW!</a></p>
+<p style="margin:3rem 0; text-align:center;"><a style="background:#FBC02D; color:#212121 !important; font-size:1.3rem;" class="button" target="blank" href="https://www.designbyhumans.com/shop/sticker/five-years-of-fosstodon/1850582/"><svg class="icon" viewBox="0 0 32 32"><path d="M12 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><path d="M32 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><path d="M32 16v-12h-24c0-1.105-0.895-2-2-2h-6v2h4l1.502 12.877c-0.915 0.733-1.502 1.859-1.502 3.123 0 2.209 1.791 4 4 4h24v-2h-24c-1.105 0-2-0.895-2-2 0-0.007 0-0.014 0-0.020l26-3.98z"></path></svg> BUY STICKERS NOW!</a></p>
 
 Thanks again to you all. You're all amazing and all play a part in making what Fosstodon is today - a friendly and bustling community of people from all walks of life, with all kinds of backgrounds.
 
