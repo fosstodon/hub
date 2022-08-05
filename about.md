@@ -40,7 +40,7 @@ The details below are accurate as of **05th August 2022**.
 | Mattermost server: | $5.00       |
 | Bitwarden: | $5.00       |
 | **Current monthly operating costs:** | **$255.00**      |
-| **Current PayPal funding:**       | **$1,060** |
+| **Current funds:**       | **$1,060** |
 | **Total months funded:**           | **4.15**   |
 
 ### Donations we have made
