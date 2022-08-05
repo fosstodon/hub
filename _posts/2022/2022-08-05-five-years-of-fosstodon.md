@@ -5,9 +5,9 @@ description: Fosstodon has recently celebrated its 5th birthday. So here's a cel
 permalink: /five-years-of-fosstodon/
 layout: post
 ---
-On 01 August 2017 at 21:59 UTC, Fosstodon went live with its very first user, yours truly...[@kev](https://fosstodon.org/@kev). This followed my frustration with the many changes to Google+, Google's attempt at a social network, and my primary social network at the time.
+On 01 August 2017 at 21:59 UTC, Fosstodon went live with its very first user, yours truly...[@kev](https://fosstodon.org/@kev). This followed my frustration with the many changes to Google+, Google's attempt at a social network, which was my primary social network at the time.
 
-It seemed to me that things were going downhill with every interation of Google+ and the writing was on the wall. It simply wasn't as good as it used to be. So I wrote a post asking my followers on G+ if they knew of any alternatively I could test.
+It seemed to me that things were going downhill with every interation of Google+ and the writing was on the wall. It simply wasn't as good as it used to be. So I wrote a post asking my followers on G+ if they knew of any alternatives I could test.
 
 I soon got a reply from someone who had become a friend over the 6 or so years that I had been on Google+, [Mike Stone](https://fosstodon.org/@mike). He said he'd been playing around with this little known Twitter clone, Mastodon.
 
@@ -16,7 +16,7 @@ So I signed up for an account on one of the generalist tech instances and had a 
 Problem was, I couldn't find one...
 
 ## The birth of Fosstodon
-Mike and I had met on Google+ as we both ran in the booming Linux/open source circles on G+. I had a feeling Mike would be looking for a similar community, like myself, on Mastodon. So I pinged Mike a message that went something like this:
+Mike and I had met on Google+ as we both ran in the booming Linux/open source circles there. I had a feeling Mike would be looking for a similar community, like myself, on Mastodon. So I pinged Mike a message that went something like this:
 
 > Hey Mike,
 >  What do you think about starting our own Mastodon instance that's Linux/FOSS focussed? Doubt it'll go anywhere, but at least we will have cool vanity handles. 😊
@@ -48,7 +48,7 @@ To celebrate *Five Years of Fosstodon* we decided to make some stickers, which a
 
 ![5 years sticker example](/assets/images/5-year-sticker-example.webp)
 
-<p style="margin:3rem 0; text-align:center;"><a style="background:var(--accent); font-weight:bold; font-size:1.3rem;" class="button" target="blank" href="https://www.designbyhumans.com/shop/sticker/five-years-of-fosstodon/1850582/">GET YOUR 5 YEAR STICKERS NOW!</a></p>
+<p style="margin:3rem 0; text-align:center;"><a style="background:#FBC02D; color:#212121 !important; font-size:1.3rem;" class="button" target="blank" href="https://www.designbyhumans.com/shop/sticker/five-years-of-fosstodon/1850582/"><svg viewBox="0 0 32 32"><path d="M12 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><path d="M32 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path><path d="M32 16v-12h-24c0-1.105-0.895-2-2-2h-6v2h4l1.502 12.877c-0.915 0.733-1.502 1.859-1.502 3.123 0 2.209 1.791 4 4 4h24v-2h-24c-1.105 0-2-0.895-2-2 0-0.007 0-0.014 0-0.020l26-3.98z"></path></svg> BUY STICKERS NOW!</a></p>
 
 Thanks again to you all. You're all amazing and all play a part in making what Fosstodon is today - a friendly and bustling community of people from all walks of life, with all kinds of backgrounds.
 
