@@ -47,7 +47,7 @@ I re-registered the domain as quickly as I possibly could, and 15 minutes or so 
 ### But how did this happen?
 Well, it's very simple, dear reader. **I'm an idiot.** I had my personal card assigned to the account, and it expired a few months back. Needless to say I didn't update the card details, so the domain couldn't renew.
 
-I don't *think* I received ay alerts about it. But saying that, I own lots of domains and get emails about renewals all the time, so it's likely I just dismissed the email.
+I don't *think* I received any alerts about it. But saying that, I own lots of domains and get emails about renewals all the time, so it's likely I just dismissed the email.
 
 ## Fixing the problem
 Instead of updating my card and risking being back in this situation when my current card expires, I flipped the payment service to PayPal, which is where all our funds are stored anyway. So hopefully, this won't happen again.
