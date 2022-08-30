@@ -26,9 +26,10 @@
 
 nav a:hover,
 nav a.current {
-  color: var(--accent) !important;
+  color: var(--accent);
   border-color: var(--accent);
   background: var(--bg);
+  filter: none;
 }
 
 nav a.current:hover {
