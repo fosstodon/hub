@@ -5,6 +5,10 @@ description: Fosstodon is currently down due to some critical maintenance. We wi
 permalink: /why-is-fosstodon-down/
 layout: post
 ---
+# Fosstodon is now back up. If you’re still seeing this page, please clear your cache.
+
+—-
+
 Hey folks, Kev here from the Fosstodon team.
 
 This is just a quick message to explain to you guys why Fosstodon is down, of all times, during this **MAHOOSIVE** wave of traffic from Twitter.
