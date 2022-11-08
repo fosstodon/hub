@@ -1,13 +1,12 @@
 ---
 title: Why is Fosstodon currently down?
 author: kev
-description: Fosstodon is currently down due to some critical maintenance. We will be stronger for it in the long run, promise.
 permalink: /why-is-fosstodon-down/
 layout: post
 ---
-# Fosstodon is now back up. If you’re still seeing this page, please clear your cache.
+{: .notice-red}
+<p style="font-size:2rem;text-align:center;">Fosstodon is now back up. If you’re still seeing this page, please <b>CLEAR YOUR CACHE</b>.</p>
 
-—-
 
 Hey folks, Kev here from the Fosstodon team.
 
