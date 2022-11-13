@@ -81,6 +81,7 @@ nav a.current:hover {
   background: var(--accent-bg);
   padding: 1rem 2rem;
   border: 2px solid var(--text);
+  border-radius: 4px;
   margin: 3rem 0;
 }
 
@@ -88,6 +89,7 @@ nav a.current:hover {
   background: var(--dark-red);
   color: #fff;
   padding: 1rem 2rem;
+  border-radius: 4px;
 }
 
 .notice-red a {
