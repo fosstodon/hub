@@ -24,6 +24,12 @@
   }
 }
 
+main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 nav a:hover,
 nav a.current {
   color: var(--accent) !important;
