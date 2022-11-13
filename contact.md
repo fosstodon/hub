@@ -12,4 +12,5 @@ If you are not a member of Fosstodon yet, and have a query about something like 
 
 #### Email us - [Diligent3129@fosstodon.org](mailto:Diligent3129@fosstodon.org)
 
+{: .notice}
 **Note:** This email is randomly generated and changes regularly to prevent spam.
