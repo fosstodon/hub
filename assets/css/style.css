@@ -106,6 +106,7 @@ nav a.current:hover {
 .team-banner {
   background: var(--accent-bg);
   border: 1px solid var(--border);
+  border-radius: 4px;
   position: relative;
   margin: .5rem .5rem 0 0;
   padding: 1rem;
