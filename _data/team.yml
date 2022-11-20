@@ -1,35 +1,41 @@
 - name: Kev Quirk
   role: Admin
-  avatar: /assets/images/avatars/kev.png
+  avatar: /assets/images/avatars/kev.webp
   link: https://fosstodon.org/@kev
   description: Kev is one of the co-founders of Fosstodon. A keen Linux and open source advocate, you can usually find him <a href="https://fosstodon.org/@kev">posting on his profile</a> about all manor of uninteresting things. You can also find him on his <a href="https://kevq.uk">personal website</a>.
 
 - name: Mike Stone
   role: Admin
-  avatar: /assets/images/avatars/mike.png
+  avatar: /assets/images/avatars/mike.webp
   link: https://fosstodon.org/@mike
   description: Mike is a husband, father, and big nerd. The other co-founder of Fosstodon, he’s probably posting right now about something he’s found on the Internet and thinks is interesting. Loves discussions about free and open source software/hardware, artificial intelligence, and long walks on the beach.
 
 - name: Cooper
   role: Community Manager
-  avatar: /assets/images/avatars/cooper.png
+  avatar: /assets/images/avatars/cooper.webp
   link: https://fosstodon.org/@cooper
   description: Cooper is a PC Gamer, father, husband, and all-around down to earth kind of guy. He's an IT Professional, by day and The Fosstodon.org Community Manager, by night... well, he does that during the day, as well. Cooper has extensive experience with managing other communities and managing an amazing beard.
 
 - name: Tayo
   role: Moderator
-  avatar: /assets/images/avatars/tayo.png
+  avatar: /assets/images/avatars/tayo.webp
   link: https://fosstodon.org/@Tay0
   description: Tayo is a husband, father, IT professional at a large utility company, 3Dprinting enthusiast and part time rancher (living beyond the sidewalks and off the grid in very rural Texas). In his spare time he enjoys grilling hamburgers, playing with grandkids and making different things. In addition, he's trying to give Cooper some competition on the awesome beard front.
 
 - name: Ru
   role: Moderator
-  avatar: /assets/images/avatars/ru.png
+  avatar: /assets/images/avatars/ru.webp
   link: https://fosstodon.org/@ru
-  description: A web developer most times of the week. Has her hands and head in All The Things — not sure if it's because she's into all of it or struggles to make choices in the  information era. If you see her failing to adult, do not be embarrassed — it's just what millennials do.
+  description: Ru is a contract web developer from south Asia. She takes pride in supporting Arsenal, changing her opinions when presented with new information, and being empathetic to everyone. She wishes to travel the world one day and meet all the friends she has made on the fediverse. Her FOSS journey has been ambivalent — switching between FOSS all the things to FOSS when it's comfortable.
 
 - name: Grueproof
   role: Moderator
   avatar: /assets/images/avatars/gruerproof.webp
   link: https://fosstodon.org/@grueproof
   description: Grueproof is a retired software developer and manager. He’s got an empty nest and time on his hands, which he fills with reading, writing, RPGs, cooking, and brewing beer and mead. Has been a proponent of FOSS since the last century and is deeply interested in using free and open source software in creative pursuits.
+
+- name: Jan-Lukas Else
+  role: Moderator
+  avatar: /assets/images/avatars/jan.webp
+  link: https://fosstodon.org/@jle
+  description: Jan-Lukas is professional software developer and free-time <a href="https://jlelse.blog">blogger</a> with a deep interest in everything that has to do with software, internet and open source. He even built his own blogging engine with ActivityPub support.
