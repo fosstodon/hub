@@ -31,17 +31,17 @@ We will then post details of any donations made to this page.
 
 ## Current funding
 
-The details below are accurate as of **13th November 2022**.
+The details below are accurate as of **23th November 2022**.
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
-| Fosstodon hosting: | $840.00       |
-| CDN hosting: | $150.00       |
+| Fosstodon hosting: | $1895.50       |
+| CDN hosting: | $200.00       |
 | Mattermost server: | $5.00       |
 | Bitwarden: | $5.00       |
-| **Current monthly operating costs:** | **$1,000.00**      |
-| **Current funds:**       | **$4723.70** |
-| **Total months funded:**           | **4.72**   |
+| **Current monthly operating costs:** | **$2,105.50**      |
+| **Current funds:**       | **$6529.45** |
+| **Total months funded:**           | **3.10**   |
 
 ### Donations we have made
 
