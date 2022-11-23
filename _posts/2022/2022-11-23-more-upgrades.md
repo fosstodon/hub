@@ -1,7 +1,7 @@
 ---
 title: More Upgrades!
 author: kev
-description: The Twitter strom continues to swell and in response, we've had to upgrade, yet again.
+description: The Twitter storm continues to swell and in response, we've had to upgrade, yet again.
 permalink: /more-upgrades-twitter-storm/
 layout: post
 ---
