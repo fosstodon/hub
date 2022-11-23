@@ -8,6 +8,7 @@ description: Fosstodon Hub is an informational site tied to Fosstodon, the large
 lang: en
 locale: en_GB
 url: "https://hub.fosstodon.org"
+git_web_base: https://github.com/fosstodon/hub/blob/HEAD/
 baseurl: ""
 permalink: :title
 
