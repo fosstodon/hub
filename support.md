@@ -21,7 +21,7 @@ The stickers measure approximately 7.5cm (3") across and 10cm (4") high.
 
 We would like to thank Fosstodon member, [Jens Reuterberg](https://fosstodon.org/@ohyran), for kindly donating his time and creating this really cool design.
 
-<a class="button" target="blank" href="http://fosstodon.store/">Buy Stickers Now --></a>
+<a class="button" target="blank" href="https://www.designbyhumans.com/shop/Fosstodon/">Buy Stickers Now --></a>
 
 ## Other ways to support us
 
