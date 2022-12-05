@@ -15,7 +15,7 @@ layout: default
 
 <details>
   <summary>ℹ️ GENERAL ENQUIRIES</summary>
-  <p>For more general enquiries abour Fosstodon, such as Press requests or anything that wouldn't be covered by a support enquiry, please use this email:</p>
+  <p>For more general enquiries about Fosstodon, such as Press requests or anything that wouldn't be covered by a support enquiry, please use this email:</p>
 
   <p><b><a href="mailto:diligent3129@fosstodon.org">diligent3129@fosstodon.org</a></b></p>
 </details>
