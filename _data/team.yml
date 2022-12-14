@@ -10,12 +10,6 @@
   link: https://fosstodon.org/@mike
   description: Mike is a husband, father, and big nerd. The other co-founder of Fosstodon, he’s probably posting right now about something he’s found on the Internet and thinks is interesting. Loves discussions about free and open source software/hardware, artificial intelligence, and long walks on the beach.
 
-- name: Cooper
-  role: Community Manager
-  avatar: /assets/images/avatars/cooper.webp
-  link: https://fosstodon.org/@cooper
-  description: Cooper is a PC Gamer, father, husband, and all-around down to earth kind of guy. He's an IT Professional, by day and The Fosstodon.org Community Manager, by night... well, he does that during the day, as well. Cooper has extensive experience with managing other communities and managing an amazing beard.
-
 - name: Tayo
   role: Moderator
   avatar: /assets/images/avatars/tayo.webp
