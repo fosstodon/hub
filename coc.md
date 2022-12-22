@@ -36,7 +36,7 @@ At Fosstodon, we consider a non-public Toot to be Toots that are not posted to t
 
 Users who follow you have consciously opted in to what you have to say. By using *Follower-only* you are talking direct to those people, and not the wider fediverse. People who follow you are more likely to understand the context and tone of what you're trying to say.
 
-**Always use a CW where appropriate, even for *Follower-only* and *Direct* Toots.**
+**Always use a Content Warning (CW) where appropriate, even for *Follower-only* and *Direct* Toots.**
 
 ## Rules for All Toots
 
