@@ -24,8 +24,7 @@ layout: none
 				{% endif %}
 				<description>
           {{ post.content | xml_escape }}
-          &lt;p style=&quot;font-size:1.3rem&quot;&gt;&lt;a href=&quot;mailto:{{ site.email | xml_escape }}?subject={{ post.title | xml_escape }}&quot;&gt;Reply to this post via email&lt;/a&gt;&lt;/p&gt;
-        </description>
+        			</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
