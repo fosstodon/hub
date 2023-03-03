@@ -174,3 +174,7 @@ nav a.current:hover {
   stroke: currentColor;
   fill: currentColor;
 }
+
+.verification-links {
+  display: none;
+}

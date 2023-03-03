@@ -11,3 +11,10 @@ layout: default
   <span class="post-description">{{ post.description }}</span><br>
   <span class="post-meta">📅 {{ post.date | date_to_string }}</span></p>
 {% endfor %}
+
+<!-- **THESE LINKS ARE HIDDEN ON THE FRONT END** - they're only used for Mastodon verification purposes -->
+<div class="verification-links">
+  <a rel="me" href="https://mastodon.social/@fosstodon">Mastodon</a>
+  <a rel="me" href="https://fosstodon.org/@kev">Mastodon</a>
+  <a rel="me" href="https://fosstodon.org/@mike">Mastodon</a>
+</div>
