@@ -23,7 +23,7 @@ And that's the clincher here - **it's all public data**. So the best advice I ca
 All that being said, here's what we plan to do **if** this thing ever sees the light of day:
 * As a team, we will review what the service is capable of and what advantages/disadvantages such a service will bring to the Fediverse
 * We will then make a determination on whether we will defederate that service
-* We will **NOT** jump on the bandwagon, or partake in the romour mill that seems to be plaguing the Fediverse at the moment
+* We will **NOT** jump on the bandwagon, or partake in the rumour mill that seems to be plaguing the Fediverse at the moment
 
 It's important to say that neither myself or Mike like anything that Facebook stands for. Neither of us use it, and both of us go to great lengths to avoid it when browsing the web. So if this service introduces **any** privacy issues for our users, we will defederate.
 
