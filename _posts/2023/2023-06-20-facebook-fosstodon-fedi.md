@@ -6,7 +6,7 @@ layout: post
 ---
 
 {: .notice}
-**TL;DR (if you can't be bothered reading all of the below)** - Fosstodon will wait and see what happens, but if Facebook's new service introduces any privacy issues for our users, we will defederate.
+**TL;DR (if you can't be bothered reading all of the below)** - Fosstodon will wait and see what happens, but if Facebook's new service introduces any issues that could negatively impact our users, we will defederate.
 
 Mike and I have been asked, multiple times, about what Fosstodon's position is on Facebook potentially joining the Fediverse.
 
@@ -25,7 +25,7 @@ All that being said, here's what we plan to do **if** this thing ever sees the l
 * We will then make a determination on whether we will defederate that service
 * We will **NOT** jump on the bandwagon, or partake in the rumour mill that seems to be plaguing the Fediverse at the moment
 
-It's important to say that neither myself or Mike like anything that Facebook stands for. Neither of us use it, and both of us go to great lengths to avoid it when browsing the web. So if this service introduces **any** privacy issues for our users, we will defederate.
+It's important to say that neither myself or Mike like anything that Facebook stands for. Neither of us use it, and both of us go to great lengths to avoid it when browsing the web. So if this service introduces **any** issues that could negatively impact our users, we will defederate.
 
 However, we don't know what this thing is yet. Hell, we don't even know if this thing will actually *exist* yet. So let's just wait and see.
 
