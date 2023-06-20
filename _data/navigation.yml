@@ -15,3 +15,6 @@
 
 - name: The Team
   link: /team/
+
+- name: Service Status
+  link: https://status.fosstodon.org
