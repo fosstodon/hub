@@ -29,6 +29,6 @@ It's important to say that neither myself or Mike like anything that Facebook st
 
 However, we don't know what this thing is yet. Hell, we don't even know if this thing will actually *exist* yet. So let's just wait and see.
 
-What if this thing ends up being a service that can allow you to communicate with your friends who still use Facebook, via the Fedi, in a privacy respecting manor. That would be pretty cool, I think; especially when you consider that one of the main concerns with new users on the Fedi is that they can't find their friends.
+What if this thing ends up being a service that can allow you to communicate with your friends who still use Facebook, via the Fedi, in a privacy respecting manner. That would be pretty cool, I think; especially when you consider that one of the main concerns with new users on the Fedi is that they can't find their friends.
 
 We all know Facebook is a [privacy vortex of doom](https://kevquirk.com/why-you-shouldnt-use-facebook) so I doubt that would ever happen, but we shall see...
