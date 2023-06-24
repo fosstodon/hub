@@ -32,3 +32,11 @@ However, we don't know what this thing is yet. Hell, we don't even know if this 
 What if this thing ends up being a service that can allow you to communicate with your friends who still use Facebook, via the Fedi, in a privacy respecting manner. That would be pretty cool, I think; especially when you consider that one of the main concerns with new users on the Fedi is that they can't find their friends.
 
 We all know Facebook is a [privacy vortex of doom](https://kevquirk.com/why-you-shouldnt-use-facebook) so I doubt that would ever happen, but we shall see...
+
+## Update 24 June 2023
+
+Mike and I received an email from a Meta representative about an *"off the record conversation"* that they would like us to attend. We politely declined - for transparancy, the original email and my reply is below.
+
+I'd just like to add that our position on the whole Facebook thing hasn't changed - we're not going to jump on the bandwagon, or take any action at this point. We're just not interested in having any kind of conversations with Meta prior to them (potentially) joining the Fediverse.
+
+![Email from Meta](/assets/images/meeting-with-meta-email.webp)
