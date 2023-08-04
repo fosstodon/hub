@@ -62,6 +62,12 @@ Public toots should follow the above rules and should also abide by the followin
 
 Always remember that your public toots are read not only by our *existing* community members (who may have the context to know what you mean) but by potential future community members as well. Strive to keep the local timeline representative of the inclusive, friendly community we want to build.
 
+## Federated accounts
+
+Actions taken in public that reflect poorly on Fosstodon, or result in complaints about personal behavior will be considered a violation of our Code of Conduct. We will not be a safe harbor for bad actors.
+
+This could include, but is not limited to, users of Fosstodon who have accounts on other servers and use those other accounts in a manner that would contravene this CoC.
+
 ## Reporting Violations
 
 If you notice a toot that violates this code of conduct, *please* report it. It is easy to assume that someone else has already reported a toot, but it is easy for everyone to feel that way [and no one to report the toot](https://en.wikipedia.org/wiki/Bystander_effect).
