@@ -68,6 +68,8 @@ Actions taken in public that reflect poorly on Fosstodon, or result in complaint
 
 This could include, but is not limited to, users of Fosstodon who have accounts on other servers and use those other accounts in a manner that would contravene this CoC.
 
+**Please note:** the "English only" rule isn't applicable here.
+
 ## Reporting Violations
 
 If you notice a toot that violates this code of conduct, *please* report it. It is easy to assume that someone else has already reported a toot, but it is easy for everyone to feel that way [and no one to report the toot](https://en.wikipedia.org/wiki/Bystander_effect).
