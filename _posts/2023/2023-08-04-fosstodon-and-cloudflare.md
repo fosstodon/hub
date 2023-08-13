@@ -19,7 +19,7 @@ Yes, we use Cloudflare. We do so because their DDoS mitigation is effective and 
 When we're under attack, that changes though. We switch on the proxy and the anti-DDoS mitigations that Cloudflare offer. This is so we can maintain the service we provide to, like, 60,000 people. Once any attacks stop, we turn it all off again.
 
 {: .notice}
-Even when we're under attack, we still don't use their TLS certificates, so Cloudflare will **NEVER** content inspect our traffic.
+When we're under attack, we're under attack and using their proxy, Cloudflare can, unfortunately, content inspect our traffic.
 
 ## Fastly
 
