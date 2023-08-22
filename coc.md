@@ -69,7 +69,7 @@ Behaviour on other Fediverse servers, or social media platforms, that are an egr
 This could include, but is not limited to, users of Fosstodon who have accounts on other servers and use those accounts in a manner that would contravene this CoC. For example, if the same person has an account on Fosstodon and on another instance, abides by this CoC on Fosstodon, but is on another server sharing their extremist beliefs, or attacking other users, they may have action taken against their Fosstodon account.
 
 {: .notice}
-**Please note:** this is applicable only in extreme circumstances. If you get into a minor argument with someone else, or post in languages other than English, that's absolutely fine. We're not trying to Police the Fediverse here, we're simply trying to prevent Fosstodon from being a haven for bad actors, merely because they haven't broken this CoC with their Fosstodon account.
+**Please note:** this is applicable only in extreme circumstances. If you get into a minor argument with someone else, or post in languages other than English, that's fine. We're not trying to Police the Fediverse here, we're simply trying to prevent Fosstodon from being a haven for bad actors, merely because they haven't broken this CoC with their Fosstodon account.
 
 ## Reporting Violations
 
