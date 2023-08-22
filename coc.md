@@ -64,11 +64,12 @@ Always remember that your public toots are read not only by our *existing* commu
 
 ## Federated accounts
 
-Actions taken in public that reflect poorly on Fosstodon, or result in complaints about personal behavior will be considered a violation of our Code of Conduct. We will not be a safe harbor for bad actors.
+Behaviour on other Fediverse servers, or social media platforms, that are an egregious breach of this Code of Conduct *could* impact your account here on Fosstodon.
 
-This could include, but is not limited to, users of Fosstodon who have accounts on other servers and use those other accounts in a manner that would contravene this CoC.
+This could include, but is not limited to, users of Fosstodon who have accounts on other servers and use those accounts in a manner that would contravene this CoC. For example, if the same person has an account on Fosstodon and on another instance, abides by this CoC on Fosstodon, but is on another server sharing their extremist beliefs, or attacking other users, they may have action taken against their Fosstodon account.
 
-**Please note:** the "English only" rule isn't applicable here.
+{: .notice}
+**Please note:** this is applicable only in extreme circumstances. If you get into a minor argument with someone else, or post in languages other than English, that's absolutely fine. We're not trying to Police the Fediverse here, we're simply trying to prevent Fosstodon from being a haven for bad actors, merely because they haven't broken this CoC with their Fosstodon account.
 
 ## Reporting Violations
 
