@@ -58,7 +58,6 @@ Public toots should follow the above rules and should also abide by the followin
 * Do not engage in name calling, [ad hominem](https://www.urbandictionary.com/define.php?term=Ad%20hominem) attacks, or any other uncivil behaviour; criticize ideas, never people.
 * **Do not tone police.** Other toots may violate the standards of civility we set on Fosstodon, but you should not criticize users for their tone. If the user is a member of the Fosstodon community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
 * **Do not toot in languages other than English** (which makes moderation prohibitively difficult — as discussed in a [separate blog post](/why-fosstodon-is-english-only)).
-* **Do not debate moderation actions in public toots.** If you disagree with how a moderator enforced this CoC you may direct-message the moderation team or [contact us](/contact). Additionally, if you support Fosstodon financially, you can raise the issue in the Patron Chat.
 
 Always remember that your public toots are read not only by our *existing* community members (who may have the context to know what you mean) but by potential future community members as well. Strive to keep the local timeline representative of the inclusive, friendly community we want to build.
 
