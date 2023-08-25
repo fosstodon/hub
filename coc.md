@@ -57,7 +57,6 @@ Public toots should follow the above rules and should also abide by the followin
 * **Do not post about inflammatory, controversial subjects without a Content Warning.** Ideally, you would not post about inflammatory subjects at all on the public timeline. However, it may be acceptable to do so in some cases, but it is never acceptable to post inflammatory toots without hiding the content behind an appropriate Content Warning.
 * Do not engage in name calling, [ad hominem](https://www.urbandictionary.com/define.php?term=Ad%20hominem) attacks, or any other uncivil behaviour; criticize ideas, never people.
 * **Do not tone police.** Other toots may violate the standards of civility we set on Fosstodon, but you should not criticize users for their tone. If the user is a member of the Fosstodon community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
-* **Do not toot in languages other than English** (which makes moderation prohibitively difficult — as discussed in a [separate blog post](/why-fosstodon-is-english-only)).
 
 Always remember that your public toots are read not only by our *existing* community members (who may have the context to know what you mean) but by potential future community members as well. Strive to keep the local timeline representative of the inclusive, friendly community we want to build.
 
@@ -68,7 +67,7 @@ Behaviour on other Fediverse servers, or social media platforms, that are an egr
 This could include, but is not limited to, users of Fosstodon who have accounts on other servers and use those accounts in a manner that would contravene this CoC. For example, if the same person has an account on Fosstodon and on another instance, abides by this CoC on Fosstodon, but is on another server sharing their extremist beliefs, or attacking other users, they may have action taken against their Fosstodon account.
 
 {: .notice}
-**Please note:** this is applicable only in extreme circumstances. If you get into a minor argument with someone else, or post in languages other than English, that's fine. We're not trying to Police the Fediverse here, we're simply trying to prevent Fosstodon from being a haven for bad actors, merely because they haven't broken this CoC with their Fosstodon account.
+**Please note:** this is applicable only in extreme circumstances. If you get into a minor argument with someone else, that's fine. We're not trying to Police the Fediverse here, we're simply trying to prevent Fosstodon from being a haven for bad actors, merely because they haven't broken this CoC with their Fosstodon account.
 
 ## Reporting Violations
 
