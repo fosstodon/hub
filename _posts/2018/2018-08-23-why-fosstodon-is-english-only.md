@@ -5,6 +5,9 @@ description: An explaination as to why Fosstodon is an English only instance.
 permalink: /why-fosstodon-is-english-only/
 layout: post
 ---
+{: .notice}
+This rule was revoked as of August 8th, 2023 by a vote from our community.
+
 We recently posted a reminder on our [official Fosstodon account](https://fosstodon.org/@fosstodon) that Toots on Fosstodon should be in English. We knew that this post would frustrate many of you, and we sincerely apologise. We thought long and hard about our decision, and it was the best we could come up with to protect our members from harassment and keep the Fosstodon team from being overwhelmed.<!--more-->
 
 We decided to write this blog post in order give you the rationale behind our decision. For context, here is the post from Fosstodon:
