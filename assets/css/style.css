@@ -60,13 +60,13 @@ nav a.current:hover {
 }
 
 .button {
-  border: none;
+  border: none !important;
   border-radius: 5px;
   background: var(--accent);
   font-size: 1rem;
   color: var(--bg) !important;
   text-decoration: none;
-  padding: .7rem .9rem;
+  padding: .1rem 1.1rem;
   margin: .5rem 0;
   transition: .4s;
 }
