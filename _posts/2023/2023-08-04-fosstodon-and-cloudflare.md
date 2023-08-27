@@ -4,6 +4,8 @@ author: kev
 description: We've been asked a lot of questions about our use of Cloudflare, so here's our official stance.
 layout: post
 ---
+{: .notice}
+As of 23rd August 2023, Fosstodon is fully migrated to Fastly, which mean we no longer use Cloudflare in any form, not even for DNS.
 
 Today, I went looking through the [#Fosstodon](https://fosstodon.org/tags/Fosstodon) feed, and in there I saw a number of comments about our use of Cloudflare and how that's really bad.
 
