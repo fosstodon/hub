@@ -113,9 +113,9 @@ nav a.current:hover {
   border: 1px solid var(--border);
   border-radius: 4px;
   position: relative;
-  margin: .5rem .5rem 0 0;
+  margin: 1rem .5rem 1rem 0;
   padding: 1rem;
-  width: 43.6%;
+  width: 48.5%;
   height: 400px;
   float: left;
 }
@@ -177,4 +177,10 @@ nav a.current:hover {
 
 .verification-links {
   display: none;
+}
+
+hr {
+  max-width: 60%;
+  display: block;
+  margin: 2.5rem auto;
 }

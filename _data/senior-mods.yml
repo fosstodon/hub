@@ -1,0 +1,11 @@
+- name: Ru
+  role: Senior Moderator
+  avatar: /assets/images/avatars/ru.webp
+  link: https://fosstodon.org/@ru
+  description: Ru is a contract web developer from south Asia. She takes pride in supporting Arsenal, and wishes to travel the world one day, meeting all the friends she has made on the fediverse along the way. Her FOSS journey has been ambivalent — switching from FOSS all the things to FOSS when it's comfortable. You can also find more about her on <a href="https://rusingh.com">her personal website</a>.
+
+- name: Chris Miller
+  role: Senior Moderator
+  avatar: /assets/images/avatars/gruerproof.webp
+  link: https://fosstodon.org/@grueproof
+  description: Chris is a retired software developer and manager. He’s got an empty nest and time on his hands, which he fills with reading, writing, RPGs, cooking, and brewing beer and mead. Has been a proponent of FOSS since the last century and is deeply interested in using free and open source software in creative pursuits.

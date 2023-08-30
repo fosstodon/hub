@@ -6,4 +6,58 @@ layout: default
 ---
 # Meet The Team
 
-{% include team.html %}
+It takes a lot of work to keep the Fosstodon running. Whether that's moderating reports, providing advice to moderators, creating and editing documentation, or just keeping the lights on and the wheels turning.
+
+This page lists all the amazing volunteers that keep this ship afloat.
+
+## Senior Moderators
+
+Our Senior Moderators are there to provide help and guidance to the moderation team, as well as creating and editing the documentation that accompanies Fosstodon, like [our CoC](https://hub.fosstodon.org/coc/) and moderation guidelines.
+
+They also work closely with Kev & Mike, working on developing and improving Fosstodon, whether that's on a technical basis, or from within the community.
+
+{% for member in site.data.senior-mods %}
+<div class="team-banner">
+    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <img class="team-avatar" src="{{ member.avatar }}" />
+    <p><b>Role:</b> {{ member.role }}</p>
+    <p>{{ member.description }}</p>
+  </div>
+{% endfor %}
+
+<div style="clear: both;"></div>
+
+## Moderators
+
+The moderators are the unsung heroes of Fosstodon. They're the people who work every single report we receive, and take appropriate action to keep Fosstodon a friendly and inclusive place for all our members.
+
+If you're interested in becoming a moderator, please [contact us](https://hub.fosstodon.org/contact/).
+
+{% for member in site.data.mods %}
+<div class="team-banner">
+    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <img class="team-avatar" src="{{ member.avatar }}" />
+    <p><b>Role:</b> {{ member.role }}</p>
+    <p>{{ member.description }}</p>
+  </div>
+{% endfor %}
+
+<div style="clear: both;"></div>
+
+
+## Founders
+
+Kev & Mike are the founders of Fosstodon. It was their idea to start this whole thing in the first place. They started out simply wanting a vanity handle on the Fediverse, but later decided to open things up to other FOSS and tech enthusiasts. As so, Fosstodon was born.
+
+Kev & Mike are responsible for all the stuff that goes on behind the scenes - like responding to DDoS attacks, [large influxes of users](https://hub.fosstodon.org/elon-twitter-post-mortem/) and working with vendors like [Masto.host](https://masto.host) and [Fastly](https://fastly.com), to improve the service for all our members.
+
+{% for member in site.data.founders %}
+<div class="team-banner">
+    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <img class="team-avatar" src="{{ member.avatar }}" />
+    <p><b>Role:</b> {{ member.role }}</p>
+    <p>{{ member.description }}</p>
+  </div>
+{% endfor %}
+
+<div style="clear: both;"></div>

@@ -1,0 +1,11 @@
+- name: Jan-Lukas Else
+  role: Moderator
+  avatar: /assets/images/avatars/jan.webp
+  link: https://fosstodon.org/@jle
+  description: Jan-Lukas is professional software developer and free-time <a href="https://jlelse.blog">blogger</a> with a deep interest in everything that has to do with software, internet and open source. He even built his own blogging engine with ActivityPub support.
+
+- name: Nikita Karamov
+  role: Moderator
+  avatar: /assets/images/avatars/nikita.webp
+  link: https://fosstodon.org/@kytta
+  description: Nikita is a computer science student, a professional full-stack developer, and a FOSS enthusiast. He could’ve become a world-class chef, a record-breaking cyclist, or a very fair linguist, but luckily, computers exist.
