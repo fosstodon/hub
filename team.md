@@ -12,9 +12,7 @@ This page lists all the amazing volunteers that keep this ship afloat.
 
 ## Senior Moderators
 
-Our Senior Moderators are there to provide help and guidance to the moderation team, as well as creating and editing the documentation that accompanies Fosstodon, like [our CoC](https://hub.fosstodon.org/coc/) and moderation guidelines.
-
-They also work closely with Kev & Mike, working on developing and improving Fosstodon, whether that's on a technical basis, or from within the community.
+Our Senior Moderators play a crucial role in offering support and guidance to the moderation team, in addition to crafting and enhancing the documentation that accompanies Fosstodon, such as [our Code of Conduct](https://hub.fosstodon.org/coc) and moderation guidelines. They are also actively involved in the ongoing development and enhancement of Fosstodon, contributing both technically and within the community, collaborating closely with the founders to ensure the platform's continued improvement.
 
 {% for member in site.data.senior-mods %}
 <div class="team-banner">
@@ -47,9 +45,9 @@ If you're interested in becoming a moderator, please [contact us](https://hub.fo
 
 ## Founders
 
-Kev & Mike are the founders of Fosstodon. It was their idea to start this whole thing in the first place. They started out simply wanting a vanity handle on the Fediverse, but later decided to open things up to other FOSS and tech enthusiasts. As so, Fosstodon was born.
+Kev and Mike are the founders of Fosstodon. It was their idea to start this whole thing in the first place. They started out simply wanting a vanity handle on the Fediverse, but later decided to open things up to other FOSS and tech enthusiasts. As so, Fosstodon was born.
 
-Kev & Mike are responsible for all the stuff that goes on behind the scenes - like responding to DDoS attacks, [large influxes of users](https://hub.fosstodon.org/elon-twitter-post-mortem/) and working with vendors like [Masto.host](https://masto.host) and [Fastly](https://fastly.com), to improve the service for all our members.
+Kev and Mike are responsible for all the stuff that goes on behind the scenes - like responding to DDoS attacks, [large influxes of users](https://hub.fosstodon.org/elon-twitter-post-mortem/) and working with vendors like [Masto.host](https://masto.host) and [Fastly](https://fastly.com), to improve the service for all our members.
 
 {% for member in site.data.founders %}
 <div class="team-banner">
