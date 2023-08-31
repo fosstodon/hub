@@ -6,7 +6,7 @@ layout: default
 ---
 ## Thank you!! 
 
-We want to extend our heartfelt gratitude to all our community members who have generously contributed through donations. Your support means the world to us and allows us. We want to emphasize that while we greatly appreciate any donations, you should never feel obligated in any way. Your participation in our community, whether through contributions or simply being a part of it, is valued above all else. We are here to provide a space that you can enjoy, and your involvement is a choice, not obligation. Thank you for being a vital part of our community.
+We want to extend our heartfelt gratitude to all our community members who have generously contributed through donations. Your support means the world to us. We want to emphasize that while we greatly appreciate any donations, you should never feel obligated in any way. Your participation in our community, whether through contributions or simply being a part of it, is valued above all else. We are here to provide a space that you can enjoy, and your involvement is a choice, not obligation. Thank you for being a vital part of our community.
 
 ## How we assign funds
 
