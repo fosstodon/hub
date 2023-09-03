@@ -9,3 +9,9 @@
   avatar: /assets/images/avatars/nikita.webp
   link: https://fosstodon.org/@kytta
   description: Nikita is a computer science student, a professional full-stack developer, and a FOSS enthusiast. He could’ve become a world-class chef, a record-breaking cyclist, or a very fair linguist, but luckily, computers exist.
+
+- name: Lulu Powerful
+  role: Moderator
+  avatar: /assets/images/avatars/lulu.webp
+  link: https://fosstodon.org/@lulu_powerful
+  description: Lulu is studying data science. She thinks mathematics and programming are fun, and "just because" is sufficient reason to learn something new.
