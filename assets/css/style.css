@@ -148,7 +148,7 @@ nav a.current:hover {
   position: absolute;
   top: 0;
   right: 0;
-  width: 64px;
+  width: 90px;
   border-radius: 50%;
   padding: 1rem;
 }
