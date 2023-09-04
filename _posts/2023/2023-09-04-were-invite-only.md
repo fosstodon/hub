@@ -9,7 +9,7 @@ As a team, we've been discussing how we can better foster a community feel on th
 
 **From now on, Fosstodon will be invite only.**
 
-We hope that by making this change, Fosstodon will become more community focussed, and less service focussed. We don't want to be the biggest instance on the Fedi, we just want to have a nice community that people to hand out and enjoy.
+We hope that by making this change, Fosstodon will become more community focussed, and less service focussed. We don't want to be the biggest instance on the Fedi, we just want to have a nice community where people can hang out and enjoy.
 
 ## What does invite only mean?
 
