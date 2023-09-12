@@ -15,3 +15,9 @@
   avatar: /assets/images/avatars/lulu.webp
   link: https://fosstodon.org/@lulu_powerful
   description: Lulu is studying data science. She thinks mathematics and programming are fun, and "just because" is sufficient reason to learn something new.
+
+- name: Wholesomedonut
+  role: Moderator
+  avatar: /assets/images/avatars/donut.webp
+  link: https://fosstodon.org/@wholesomedonut
+  description: Donut is an IT sysadmin, who specializes in authentication toolchains, PKI, and systems integration. It is impossible to know his next move, mostly because he doesn't know what it is either. Away from the keyboard he enjoys baking bread, painting Battletech miniatures, and going out for a range day. Find him at <a href="https://ctrl-c.club/~wholesomedonut/">Ctrl-C Club</a> on https and gemini.
