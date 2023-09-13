@@ -113,7 +113,7 @@ nav a.current:hover {
   border: 1px solid var(--border);
   border-radius: 4px;
   position: relative;
-  margin: 1rem .5rem 1rem 0;
+  margin: 0.25rem .5rem 0.25rem 0;
   padding: 1rem;
   width: 48.5%;
   height: 400px;
