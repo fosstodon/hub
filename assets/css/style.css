@@ -41,6 +41,10 @@ nav a.current:hover {
   text-decoration: none;
 }
 
+p {
+  margin: 1.5rem 0;
+}
+
 .post-description {
   font-size: 1rem;
   font-style: italic;
