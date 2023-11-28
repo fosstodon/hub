@@ -5,5 +5,5 @@ description: Join our first ever community meetup!
 layout: post
 ---
 
-<center>![FIRST EVER COMMUNITY MEETUP](/assets/images/meetup.jpg)</center>
+<img align=center style="width:70%" alt="FIRST EVER COMMUNITY MEETUP" src="/assets/images/meetup.jpg" />
 [FIRST EVER COMMUNITY MEETUP!!](https://lu.ma/fosstodon-meetup)
