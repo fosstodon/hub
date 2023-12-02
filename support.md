@@ -6,7 +6,7 @@ layout: default
 ---
 # Support Us
 
-Running a project like Fosstodon [can be expensive](/about/#current-funding) and take a lot of time. We have a fantastic team of volunteers to help moderate and manage Fosstodon, but if you want to help support the project financially you can do so in a number of ways:
+Running a project like Fosstodon [can be expensive](/finances/) and take a lot of time. We have a fantastic team of volunteers to help moderate and manage Fosstodon, but if you want to help support the project financially you can do so in a number of ways:
 
 {% include donate-buttons.html %}
 
