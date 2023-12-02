@@ -27,7 +27,7 @@ We will then post details of any donations made to this page.
 
 ## Current funding
 
-The details below are accurate as of **31 August 2023**.
+The details below are accurate as of **02 December 2023**.
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
@@ -37,8 +37,8 @@ The details below are accurate as of **31 August 2023**.
 | Translation server: | $8.00       |
 | Bitwarden: | $5.00       |
 | **Current monthly operating costs:** | **$2,098**      |
-| **Current funds:**       | **$10,495.55** |
-| **Total months funded:**           | **5**   |
+| **Current funds:**       | **$10,371.28** |
+| **Total months funded:**           | **4.9**   |
 
 ### Donations we have made
 
