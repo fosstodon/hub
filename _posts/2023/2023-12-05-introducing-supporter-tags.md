@@ -15,7 +15,7 @@ This should effect all current and past Patreon supporters where we have been ab
 Unfortunately, we can't add this tag for supporters who have donated by Liberapay or PayPal as there is no way for us to access your email address. **If you have supported us via one of these methods, please [drop us an email](https://hub.fosstodon.org/contact/) and we will work to get the tag added to your account.**
 
 {: .notice}
-**Note:** You will need to add some proof of your donation to the email.
+**Note:** You will need to add some proof of your donation to the email **and your Fosstodon username**.
 
 ## What about new supporters?
 
