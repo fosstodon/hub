@@ -70,13 +70,9 @@ p {
   font-size: 1rem;
   color: var(--bg) !important;
   text-decoration: none;
-  padding: 1rem 1.1rem;
+  padding: 1rem 1.1rem !important;
   margin: .5rem 0;
   transition: .4s;
-}
-
-.button:hover {
-	padding: 1.1rem 1.2rem;
 }
 
 .post-title {
