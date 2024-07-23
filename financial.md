@@ -25,9 +25,7 @@ Again, this will stay open for a week and the project with the most votes at the
 
 We will then post details of any donations made to this page.
 
-## Current funding
-
-The details below are accurate as of **02 December 2023**.
+## Current running costs
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
@@ -37,8 +35,6 @@ The details below are accurate as of **02 December 2023**.
 | Translation server: | $8.00       |
 | Bitwarden: | $5.00       |
 | **Current monthly operating costs:** | **$2,098**      |
-| **Current funds:**       | **$10,371.28** |
-| **Total months funded:**           | **4.9**   |
 
 ### Donations we have made
 
@@ -53,5 +49,6 @@ The details below are accurate as of **02 December 2023**.
 |  Tor Project                  |  19 Nov 20    | $200                |
 |  postmarketOS                 |  24 Nov 21    | $300                |
 |  European Digital Rights                  |  24 Nov 21    | $300                |
+|  Mstdn.social                  |  20 July 24    | $412               |
 
-**Total donations made: $1,750**
+**Total donations made: $2,162**
