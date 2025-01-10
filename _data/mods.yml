@@ -1,15 +1,3 @@
-- name: Jan-Lukas Else
-  role: Moderator
-  avatar: /assets/images/avatars/jan.webp
-  link: https://fosstodon.org/@jle
-  description: Jan-Lukas is professional software developer and free-time <a href="https://jlelse.blog">blogger</a> with a deep interest in everything that has to do with software, internet and open source. He even built his own blogging engine with ActivityPub support.
-
-- name: Tayo 
-  role: Moderator
-  avatar: /assets/images/avatars/tayo.png
-  link: https://fosstodon.org/@tay0 
-  description: Tayo is a husband, father, IT professional at a large utility company, 3Dprinting enthusiast and part time rancher (living beyond the sidewalks and off the grid in very rural Texas). In his spare time he enjoys grilling hamburgers, playing with grandkids and making different things. In addition, he's trying to give Cooper some competition on the awesome beard front. 
-
 - name: Lulu Powerful
   role: Moderator
   avatar: /assets/images/avatars/lulu.webp
