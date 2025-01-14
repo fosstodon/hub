@@ -15,7 +15,7 @@ I've written about [my personal opinions on the matter](https://kevquirk.com/blo
 
 We discussed it as a team, and after lots of discussion we were erring toward not de-federating with Threads as people have the option to personally defederate.
 
-But we wanted a pulse check from the community, so we decided to put a poll on Patreon that asked our patrons to give their opinion as they're a good cross-section of our community. After 299 and lots of conversation in the comments, the results were in:
+But we wanted a pulse check from the community, so we decided to put a poll on Patreon that asked our patrons to give their opinion as they're a good cross-section of our community. After 299 votes and lots of conversation in the comments, the results were in:
 
 ![Patreon vote results](/assets/images/patreon-vote-results.webp)
 
