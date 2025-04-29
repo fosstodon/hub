@@ -1,7 +1,7 @@
 ---
 title: Fosstodon is NOT Shutting Down
 author: kev
-description:
+description: Mike and Kev are stepping down, but that doesn't mean that Fosstodon is shutting down.
 layout: post
 ---
 
