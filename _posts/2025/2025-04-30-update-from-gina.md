@@ -1,7 +1,7 @@
 ---
 title: An Intro/Update From Gina
 author: gina
-description:
+description: A quick intro from Fosstodon's new admin, Gina, and some of her short-term plans.
 layout: post
 ---
 Hi all, Gina here!
