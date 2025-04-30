@@ -1,0 +1,5 @@
+- name: Gina
+  role: Admin
+  avatar: /assets/images/avatars/gina.webp
+  link: https://fosstodon.org/@gina
+  description: Memefluencer, DIY queen, tech nerd. All views are my own and in no way reflect my professional persona. She/her.
