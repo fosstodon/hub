@@ -1,6 +1,6 @@
 ---
 title: Something
-author: kev mike cooper ***CHANGE THIS***
+author: kev mike gina ***CHANGE THIS***
 description:
 layout: post
 ---
