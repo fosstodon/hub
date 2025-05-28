@@ -9,7 +9,7 @@ Hi all, Gina here 👋
 
 Hope you’re all well! Just some quick updates. If you’ve never heard the phrase “shaving the yak”, let me introduce you to a concept that has become very familiar since stepping into the admin role at Fosstodon.
 
-## Shaving yaks
+## Tasks within tasks
 
 Yak shaving describes the phenomenon where a seemingly simple task turns into a series of increasingly complicated, often unrelated tasks. Say you want to write a blog post for hub.fosstodon.org on your personal laptop — but first you need to do another thing, such as [fixing your personal laptop](https://fosstodon.org/@Gina/114584297672268080). And to do that, you need to do yet another thing, like checking if your SSD even works anymore. Before you know it, you're in a field somewhere, shaving a yak. Or in my case, deep in my storage unit digging through my spare toolbox to find my miniature Philips screwdriver. All because I wanted to write a post.
 
@@ -29,7 +29,7 @@ Since then, the new mod team has been busy! They’ve:
 - Completed 20 example scenarios
 - And are discussing anonymized real-world reports this week
 
-As of next week, their introductions will start to appear on hub.fosstodon.org/team/. They’ll move into a trial period where they’ll have full mod privileges, but continue to check in and discuss reports with the team before taking action. From the start, it's been a focus to make sure this team is diverse — not just in identities, but also in time zones, backgrounds, age, and experience levels. I’m very proud of how this team is coming together.
+As of next week, their introductions will start to appear on hub.fosstodon.org/team/. They’ll move into a trial period where they’ll have full mod privileges, but continue to check in and discuss reports with the team before taking action. From the start, it's been a focus to make sure our new mod team is diverse — not just in identities, but also in time zones, backgrounds, age, and experience levels. I’m very proud of how this team is coming together.
 
 ## Admin duties
 
