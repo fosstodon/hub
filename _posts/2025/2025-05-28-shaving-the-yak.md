@@ -47,6 +47,6 @@ Also, technically I could register the non-profit and open the bank account myse
 
 So hereby a **call for a fellow admin!**
 
-Have you been active on Fosstodon for a while and do you have a few hours per week for the next year to take on admin duties with me? And would you be okay with being registered as a board member for Fosstodon’s non-profit entity? Then send me a DM!
+Have you been active on Fosstodon for a while and do you have a few hours per week for the next year to take on admin duties with me? And would you be okay with being registered as a board member for Fosstodon’s non-profit entity? Then send [me](https://fosstodon.org/@gina) a DM!
 
 For now, thanks again all for your trust in me :) The yak is practically bald by now, so we’re on the right track. You know where to find me if you have questions or comments!
