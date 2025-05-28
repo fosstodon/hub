@@ -11,7 +11,7 @@ Hope you’re all well! Just some quick updates. If you’ve never heard the phr
 
 ## Shaving yaks
 
-Yak shaving describes the phenomenon where a seemingly simple task turns into a series of increasingly complicated, often unrelated tasks. Say you want to write a blog post for hub.fosstodon.org on your personal laptop — but first you need to do another thing, such as fixing your personal laptop. And to do that, you need to do yet another thing, like checking if your SSD even works anymore. Before you know it, you're in a field somewhere, shaving a yak. Or in my case, deep in my storage unit digging through my spare toolbox to find my miniature Philips screwdriver. All because I wanted to write a post.
+Yak shaving describes the phenomenon where a seemingly simple task turns into a series of increasingly complicated, often unrelated tasks. Say you want to write a blog post for hub.fosstodon.org on your personal laptop — but first you need to do another thing, such as [fixing your personal laptop](https://fosstodon.org/@Gina/114584297672268080). And to do that, you need to do yet another thing, like checking if your SSD even works anymore. Before you know it, you're in a field somewhere, shaving a yak. Or in my case, deep in my storage unit digging through my spare toolbox to find my miniature Philips screwdriver. All because I wanted to write a post.
 
 Taking over the admin duties at Fosstodon has involved a fair amount of yak shaving.
 
