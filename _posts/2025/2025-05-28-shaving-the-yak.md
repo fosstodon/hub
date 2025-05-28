@@ -26,7 +26,7 @@ From those 42 responses, 23 people joined our Mattermost channel to begin traini
 Since then, the new mod team has been busy! They’ve:
 - Read and discussed the Code of Conduct
 - Worked through a new training guide
-- Completed [20 example scenarios (pdf)](https://hub.fosstodon.org/assets/files/mod-scenarios.pdf)
+- Completed 20 example scenarios
 - And are discussing anonymized real-world reports this week
 
 As of next week, their introductions will start to appear on hub.fosstodon.org/team/. They’ll move into a trial period where they’ll have full mod privileges, but continue to check in and discuss reports with the team before taking action. From the start, it's been a focus to make sure this team is diverse — not just in identities, but also in time zones, backgrounds, age, and experience levels. I’m very proud of how this team is coming together.
