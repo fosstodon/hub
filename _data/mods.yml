@@ -1,8 +1,8 @@
-- name: Lulu Powerful
+- name: Brandon
   role: Moderator
-  avatar: /assets/images/avatars/lulu.webp
-  link: https://fosstodon.org/@lulu_powerful
-  description: Lulu is studying data science. She thinks mathematics and programming are fun, and "just because" is sufficient reason to learn something new.
+  avatar: /assets/images/avatars/brandon.webp
+  link: https://fosstodon.org/@btp
+  description: Moving slow and fixing things.
 
 - name: Joel
   role: Moderator
