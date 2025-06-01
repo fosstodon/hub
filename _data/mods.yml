@@ -11,12 +11,11 @@
   description: I’m here to contribute, assist, & learn more about the FOSS Multiverse and community. 
   Industry Certification
   CompTIA Security+
-  
   Community Support
-  @eff - Guardian Member
-  #DEFCON33 - Attendee
+  eff - Guardian Member
+  DEFCON33 - Attendee
   Michael Bazzell - OSIP Training
-  #IEEE - Student Member
+  IEEE - Student Member
   I only approve followers who have engaged with me.
   PS. My toots autodelete.
 
@@ -55,76 +54,90 @@
   role: Moderator
   avatar: /assets/images/avatars/fivespeed.webp
   link: https://fosstodon.org/@fivespeed
-  description: ""
+  description: Husband, father, and lover of fine coffee. Whether it’s under the hood, or in a terminal window, I enjoy tinkering with things.
 
 - name: Julianfairfax
   role: Moderator
   avatar: /assets/images/avatars/julianfairfax.webp
   link: https://fosstodon.org/@julianfairfax
-  description: ""
+  description: Developer, supporter of the free and open source software movement, defender of human rights, of democracy, and of European unity.
+  Développeur, défenseur du mouvement des logiciels libres, défenseur des droits de l'homme, de la démocratie, et de l'unité européenne.
+  Entwickler, Unterstützer der Bewegung für freie und quelloffene Software, Verteidiger der Menschenrechte, der Demokratie, und der europäischen Einigung.
 
 - name: Artfulsodger
   role: Moderator
   avatar: /assets/images/avatars/artfulsodger.webp
   link: https://fosstodon.org/@artfulsodger
-  description: ""
+  description: A #FOSS and #selfhosting enthusiast! Software Engineer in the Launchpad team at Canonical. Python Emacs Linux Debian Ubuntu Arch privacy India gaming
+  Post and opinions are my own and not the views of my employer.
 
 - name: Thewk
   role: Moderator
   avatar: /assets/images/avatars/thewk.webp
   link: https://fosstodon.org/@thewk
-  description: ""
+  description: I was a software engineer for the last 13 years, now in sales. Apart from that, skiing instructor and climbing enthusiat, hobby photographer, cook and bad guitar player.... Also proudly donating to multiple foss projects
 
 - name: Emneo
   role: Moderator
   avatar: /assets/images/avatars/emneo.webp
   link: https://fosstodon.org/@emneo
-  description: ""
+  description: Free software enthusiast currently working at Epitech Toulouse.
+  I like to program in C/Haskell/Python/Zig.
+  I hate C++.
+  Posts get deleted after 2 weeks for privacy related reasons :3
 
 - name: Anachron
   role: Moderator
   avatar: /assets/images/avatars/anachron.webp
   link: https://fosstodon.org/@anachron
-  description: ""
+  description: I like Open Source, Void Linux, the CLI, privacy, nature and music of all kinds
 
 - name: Tobtobxx
   role: Moderator
   avatar: /assets/images/avatars/tobtobxx.webp
   link: https://fosstodon.org/@tobtobxx
-  description: ""
+  description: Male, born in 2002. Teacher. Likes math, physics and computer science.
+  Always trying to escape big-tech. Strives to thoroughly understand technology. Embraces simplicity.
+  Other hobbies include making music, stargazing, chess and more. There's a lot that piques my interest and a lot left to learn out there.
+  “You are worthy, Jehovah our God, to receive the glory and the honor and the power, because you created all things [...].” (Revelation 4:11, NWT)
 
 - name: Krisfreedain
   role: Moderator
   avatar: /assets/images/avatars/krisfreedain.webp
   link: https://fosstodon.org/@krisfreedain
-  description: ""
+  description: Community Manager for The OpenSearch Project & OpenSearch Software Foundation (at AWS) OpenSource | (opinions are my own) | father | husband | Buddhist | meditation | garage gym powerlifting | minimalism | he/him | Portland
 
 - name: Fedops
   role: Moderator
   avatar: /assets/images/avatars/fedops.webp
   link: https://fosstodon.org/@fedops
-  description: ""
+  description: childfree, foss zfs, privacy, selfhosting, hiking, gardening, nature conservancy, EV physicalmedia. Unix and Linux sysadmin turned industrial OT security architect. Forest smallholder.
+  Please fill in your bio before following.
+  "When you talk, you are only repeating what you already know. But if you listen, you may learn something new." - The Dalai Lama
+  Avatar= ASR coat of arms by Joe Creighton.
 
 - name: Nyx
   role: Moderator
   avatar: /assets/images/avatars/nyx.webp
   link: https://fosstodon.org/@nyx
-  description: ""
+  description: FOSS Lover | GameDev | Privacy is a right | She / Her
 
 - name: Calharding
   role: Moderator
   avatar: /assets/images/avatars/calharding.webp
   link: https://fosstodon.org/@calharding
-  description: ""
+  description: I was the shadow of the penguin slain
+  By Exchange, Azure, and the Win domain.
 
 - name: Tsvenson
   role: Moderator
   avatar: /assets/images/avatars/tsvenson.webp
   link: https://fosstodon.org/@tsvenson
-  description: ""
+  description: Building a cooperating system • Born at CO₂ 325 PPM • Proud nerd • On the ADHD and #Autism spectrum 🤘 • 🇸🇪 Kanspiratör 🇬🇧 Canspirator 🇪🇸 [buscando] • YNWA since 1974
+  For everything not FOSS, Find me as tsvenson on mastodon.online
 
 - name: Emanuel
   role: Moderator
   avatar: /assets/images/avatars/emanuel.webp
   link: https://fosstodon.org/@emanuel
-  description: ""
+  description: Pediatric nurse. In between, runner🏃 cyclist🚴 gamer🎮 and coffee lover☕
