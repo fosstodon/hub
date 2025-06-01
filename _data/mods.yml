@@ -47,7 +47,7 @@
   role: Moderator
   avatar: /assets/images/avatars/jimsalter.webp
   link: https://fosstodon.org/@jimsalter
-  description: Hi! I'm Jim Salter, aka mercenary_sysadmin, aka "the biggest ZFS stan on the planet."
+  description: Hi! I'm Jim Salter, aka mercenary_sysadmin, aka the biggest ZFS stan on the planet.
   I am *not* Jim Salter, the Associated Press reporter based in Missouri. That's a different guy, and he hides from the Internet.
 
 - name: Fivespeed
@@ -68,7 +68,7 @@
   role: Moderator
   avatar: /assets/images/avatars/artfulsodger.webp
   link: https://fosstodon.org/@artfulsodger
-  description: A #FOSS and #selfhosting enthusiast! Software Engineer in the Launchpad team at Canonical. Python Emacs Linux Debian Ubuntu Arch privacy India gaming
+  description: A FOSS and selfhosting enthusiast! Software Engineer in the Launchpad team at Canonical. Python Emacs Linux Debian Ubuntu Arch privacy India gaming
   Post and opinions are my own and not the views of my employer.
 
 - name: Thewk
@@ -99,7 +99,7 @@
   description: Male, born in 2002. Teacher. Likes math, physics and computer science.
   Always trying to escape big-tech. Strives to thoroughly understand technology. Embraces simplicity.
   Other hobbies include making music, stargazing, chess and more. There's a lot that piques my interest and a lot left to learn out there.
-  “You are worthy, Jehovah our God, to receive the glory and the honor and the power, because you created all things [...].” (Revelation 4:11, NWT)
+  You are worthy, Jehovah our God, to receive the glory and the honor and the power, because you created all things [...]. (Revelation 4-11, NWT)
 
 - name: Krisfreedain
   role: Moderator
@@ -113,7 +113,7 @@
   link: https://fosstodon.org/@fedops
   description: childfree, foss zfs, privacy, selfhosting, hiking, gardening, nature conservancy, EV physicalmedia. Unix and Linux sysadmin turned industrial OT security architect. Forest smallholder.
   Please fill in your bio before following.
-  "When you talk, you are only repeating what you already know. But if you listen, you may learn something new." - The Dalai Lama
+  When you talk, you are only repeating what you already know. But if you listen, you may learn something new. - The Dalai Lama
   Avatar= ASR coat of arms by Joe Creighton.
 
 - name: Nyx
