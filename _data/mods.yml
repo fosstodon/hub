@@ -8,31 +8,48 @@
   role: Moderator
   avatar: /assets/images/avatars/nujtag.webp
   link: https://fosstodon.org/@Nujtag
-  description: I’m here to contribute, assist, & learn more about the FOSS Multiverse and community. PS. My toots autodelete.
+  description: I’m here to contribute, assist, & learn more about the FOSS Multiverse and community. 
+  Industry Certification
+  CompTIA Security+
+  
+  Community Support
+  @eff - Guardian Member
+  #DEFCON33 - Attendee
+  Michael Bazzell - OSIP Training
+  #IEEE - Student Member
+  I only approve followers who have engaged with me.
+  PS. My toots autodelete.
 
 - name: Jannem
   role: Moderator
   avatar: /assets/images/avatars/jannem.webp
   link: https://fosstodon.org/@jannem
-  description: ""
+  description: Programmer and computational neuroscientist, now HPC support engineer in Okinawa, Japan. 
+  Photography, bouldering, recreational programming and playing the sanshin are things I do. 
+  Sweden, Osaka and Okinawa are places I particularly care about.
 
 - name: El_on_libera
   role: Moderator
   avatar: /assets/images/avatars/el_on_libera.webp
   link: https://fosstodon.org/@el_on_libera
-  description: ""
+  description: Libera Chat and OFTC staffer. They/She.
 
 - name: Chrisafk
   role: Moderator
   avatar: /assets/images/avatars/chrisafk.webp
   link: https://fosstodon.org/@Chrisafk
-  description: ""
+  description: 👨‍💻 Embedded Software Engineer | FOSS Devotee 🐧
+  :kdenew: KDE Plasma & :opensuse: openSUSE | 🔒 Fierce Privacy Defender
+  📍 Southeast Michigan | Hunting for low-level/back-end software positions
+  🌍 Traveling, hiking, & inline skating Detroit’s vibrant streets | Thriving in nature
+  🎓 BS in Computer Science | Championing open-source, community, & inclusive tech vibes
 
 - name: Jimsalter
   role: Moderator
   avatar: /assets/images/avatars/jimsalter.webp
   link: https://fosstodon.org/@jimsalter
-  description: ""
+  description: Hi! I'm Jim Salter, aka mercenary_sysadmin, aka "the biggest ZFS stan on the planet."
+  I am *not* Jim Salter, the Associated Press reporter based in Missouri. That's a different guy, and he hides from the Internet.
 
 - name: Fivespeed
   role: Moderator
