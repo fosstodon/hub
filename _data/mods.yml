@@ -109,3 +109,48 @@
     Male, born in 2002. Teacher. Likes math, physics and computer science.
     Always trying to escape big-tech. Strives to thoroughly understand technology. Embraces simplicity.
     Other hobbies include making
+
+- name: Krisfreedain
+  role: Moderator
+  avatar: /assets/images/avatars/krisfreedain.webp
+  link: https://fosstodon.org/@krisfreedain
+  description: |
+    Community Manager for The OpenSearch Project & OpenSearch Software Foundation (at AWS) OpenSource | (opinions are my own) | father | husband | Buddhist | meditation | garage gym powerlifting | minimalism | he/him | Portland
+
+- name: Fedops
+  role: Moderator
+  avatar: /assets/images/avatars/fedops.webp
+  link: https://fosstodon.org/@fedops
+  description: |
+    childfree, foss zfs, privacy, selfhosting, hiking, gardening, nature conservancy, EV physicalmedia. Unix and Linux sysadmin turned industrial OT security architect. Forest smallholder.
+    Please fill in your bio before following.
+    When you talk, you are only repeating what you already know. But if you listen, you may learn something new. - The Dalai Lama
+    Avatar= ASR coat of arms by Joe Creighton.
+
+- name: Nyx
+  role: Moderator
+  avatar: /assets/images/avatars/nyx.webp
+  link: https://fosstodon.org/@nyx
+  description: FOSS Lover | GameDev | Privacy is a right | She / Her
+
+- name: Calharding
+  role: Moderator
+  avatar: /assets/images/avatars/calharding.webp
+  link: https://fosstodon.org/@calharding
+  description: |
+    I was the shadow of the penguin slain
+    By Exchange, Azure, and the Win domain.
+
+- name: Tsvenson
+  role: Moderator
+  avatar: /assets/images/avatars/tsvenson.webp
+  link: https://fosstodon.org/@tsvenson
+  description: |
+    Building a cooperating system • Born at CO₂ 325 PPM • Proud nerd • On the ADHD and #Autism spectrum 🤘 • 🇸🇪 Kanspiratör 🇬🇧 Canspirator 🇪🇸 [buscando] • YNWA since 1974
+    For everything not FOSS, Find me as tsvenson on mastodon.online
+
+- name: Emanuel
+  role: Moderator
+  avatar: /assets/images/avatars/emanuel.webp
+  link: https://fosstodon.org/@emanuel
+  description: Pediatric nurse. In between, runner🏃 cyclist🚴 gamer🎮 and coffee lover☕
