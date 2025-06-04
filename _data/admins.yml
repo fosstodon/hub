@@ -3,3 +3,16 @@
   avatar: /assets/images/avatars/gina.webp
   link: https://fosstodon.org/@gina
   description: ✨ Projectmanager | Memefluencer | Tech nerd | FOSS enthusiast | DIY's ✨ Building the new Fosstodon team. Will keep you posted! She/her. 🏳️‍🌈&🏳️‍⚧️ ally.
+
+- name: Krisfreedain
+  role: Moderator
+  avatar: /assets/images/avatars/krisfreedain.webp
+  link: https://fosstodon.org/@krisfreedain
+  description: |
+    Community Manager for The OpenSearch Project & OpenSearch Software Foundation (at AWS) OpenSource | (opinions are my own) | father | husband | Buddhist | meditation | garage gym powerlifting | minimalism | he/him | Portland
+
+- name: Brandon
+  role: Moderator
+  avatar: /assets/images/avatars/brandon.webp
+  link: https://fosstodon.org/@btp
+  description: Moving slow and fixing things.
