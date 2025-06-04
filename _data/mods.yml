@@ -1,9 +1,3 @@
-- name: Brandon
-  role: Moderator
-  avatar: /assets/images/avatars/brandon.webp
-  link: https://fosstodon.org/@btp
-  description: Moving slow and fixing things.
-
 - name: Nujtag
   role: Moderator
   avatar: /assets/images/avatars/nujtag.webp
@@ -103,13 +97,6 @@
     Male, born in 2002. Teacher. Likes math, physics and computer science.
     Always trying to escape big-tech. Strives to thoroughly understand technology. Embraces simplicity.
     Other hobbies include making
-
-- name: Krisfreedain
-  role: Moderator
-  avatar: /assets/images/avatars/krisfreedain.webp
-  link: https://fosstodon.org/@krisfreedain
-  description: |
-    Community Manager for The OpenSearch Project & OpenSearch Software Foundation (at AWS) OpenSource | (opinions are my own) | father | husband | Buddhist | meditation | garage gym powerlifting | minimalism | he/him | Portland
 
 - name: Fedops
   role: Moderator
