@@ -7,7 +7,7 @@ layout: post
 
 Hi  all, 👋
 
-We're very happy to announce that our call for admin has yielded not 1, but 2 very qualified people from our community. 🥳🥳 Brandon and Kris will be stepping us as admins, together with Gina. They'll introduce themselves in this post.
+We're very happy to announce that our call for admin has yielded not 1, but 2 very qualified people from our community. 🥳🥳 Brandon and Kris will be stepping up as admins, together with Gina. They'll introduce themselves in this post.
 
 ## An intro from Brandon
 
