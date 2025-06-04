@@ -5,7 +5,9 @@ description: Announcing Brandon and Kris as two additional admins to the Fosstod
 layout: post
 ---
 
-We're very happy to announce that our call for admin has yielded not 1, but 2 very qualified people from our community. Brandon and Kris will be stepping us as admins, together with Gina. They'll introduce themselves in this post.
+Hi  all, 👋
+
+We're very happy to announce that our call for admin has yielded not 1, but 2 very qualified people from our community. 🥳🥳 Brandon and Kris will be stepping us as admins, together with Gina. They'll introduce themselves in this post.
 
 ## An intro from Brandon
 
