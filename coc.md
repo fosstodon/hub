@@ -5,6 +5,7 @@ permalink: /coc/
 layout: default
 ---
 ## Code of Conduct
+v0.1.0-2025-06-19
 
 In this document, we describe our intentions for Fosstodon, and set our expectations for all users on Fosstodon.
 
