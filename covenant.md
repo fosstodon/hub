@@ -5,6 +5,7 @@ permalink: /covenant/
 layout: default
 ---
 ## Fosstodon Team Covenant
+v0.1.0-2025-06-19
 
 The Fosstodon team is responsible for the upkeep of Fosstodon. While not all members of the team engage directly in all forms of moderation, all commit to the following:
 
