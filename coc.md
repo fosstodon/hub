@@ -4,81 +4,69 @@ description: Guidelines on how we expect our members to behave.
 permalink: /coc/
 layout: default
 ---
-# Code of Conduct
+## Code of Conduct
 
-This document lays out the ground rules for participating in the Fosstodon community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the [Fosstodon team](/team) may amend this CoC to better meet these goals in the future.
+In this document, we describe our intentions for Fosstodon, and set our expectations for all users on Fosstodon.
 
-## Goals
+This is a living document, which may be amended at any time by the [Fosstodon team](https://hub.fosstodon.org/team) to better communicate or adjust these goals.
 
-* Provide a friendly, safe, and welcoming environment for everyone interested in Free/Libre/Open-Source Software, regardless of level of experience, gender identity or expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, political affiliation, or other similar characteristic.
-* Create a supportive community, where people freely share their passions and are excited and positive about each other's successes.
-* Provide a venue for casual conversations — we may all be passionate about technology, but that doesn't mean that our conversations always centre on that shared passion.
+### What we are
 
-## Non-Goals
+Fosstodon is a Mastodon instance that federates with many other servers in the fediverse, also known as the open social web. The theme of this instance is Free/Libre/Open-Source software and adjacent communities. This is what the "FOSS" in our name represents.
 
-While it's important to know what Fosstodon is, it's just as important to understand what we're not. Fosstodon is **not**:
+### Intentions
 
-* A free speech zone. Fosstodon is a community with specific — and high — standards of behaviour. If you would like to exercise your full free speech rights, you can do so **somewhere else**; while on Fosstodon, you should agree to follow the community rules set out in this CoC.
-* An advocacy space. There are many important, controversial and political issues; and advocating for what you believe is important. However, Fosstodon is not the place for that advocacy. Even correct views can violate our CoC.
-* An experts-only space. We all share a love of FOSS, but no Fosstodon user should be shamed for not understanding a basic concept or told to read the manual before asking questions about a certain technology.
+Fosstodon intends to provide a friendly environment for those who want a social media experience that prioritizes FOSS, where they can share their interests, passions, and achievements. Nobody should feel unwelcome on the basis of their skills, experience, or ability to read a manual; Fosstodon is *not* an experts-only space.
 
-## Public Toots
+While using Fosstodon or engaging with Fosstodon members, everyone should be safe from harassment and similar antisocial behavior. As a community, we aim to curate a safe place for anyone, regardless of their characteristics including but not limited to: race, ethnicity, national identity, spoken language, sex, gender identity or expression, sexuality, sexual orientation, physical or mental health status, disability, other body characteristics, or age.
 
-Public Toots are those that are posted to the public timelines. This means that anyone on Fosstodon can see your Toot on the local timeline and anyone on the Internet can see your Toot via the [see what's happening](https://fosstodon.org/public) page. This also means that your Toot will be visible to any instances that Fosstodon federates with, via the federated timeline.
+Additionally, members are expected to practice tolerance of others' expressions of faith, personal philosophy, or political affiliation, *provided* those values do not conflict with this code of conduct or impact the safety of others. We do not want a [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance) on Fosstodon.
 
-## Non-Public Toots
+We understand that many members have strong opinions about "freedom of speech", however this is not a feature we offer.
 
-At Fosstodon, we consider a non-public Toot to be Toots that are not posted to the public timelines. These include Toots that are posted with the following privacy settings:
+### Expectations
 
-* **Unlisted** - Not posted to public timelines, but viewable if someone visits your profile.
-* **Follower-only** - Only viewable by a user who follows you.
-* **Direct** - Only viewable to users who are @ mentioned in a Toot.
+#### Our local timeline
 
-Users who follow you have consciously opted in to what you have to say. By using *Follower-only* you are talking direct to those people, and not the wider fediverse. People who follow you are more likely to understand the context and tone of what you're trying to say.
+The local timeline consists of public listed posts and replies that our members make. To help fulfil our intention of prioritizing FOSS discussion, members should make use of labeling tools that Mastodon provides for improved reach and individual curation. Hashtags and content warnings (CWs) help people customize their timelines. By using these tools, you make it possible for others to shape their experiences by allowing them to filter or hide content they don't want.
 
-**Always use a Content Warning (CW) where appropriate, even for *Follower-only* and *Direct* Toots.**
+Special care must be given for labeling topics that others are likely to find stressful. This includes, but is not limited to:
+- global and local politics,
+- controversial subjects,
+- non-FOSS activism, and
+- low-effort "[shitposting](https://en.wikipedia.org/wiki/Shitposting)".
 
-## Rules for All Toots
+#### Conduct
 
-All toots (public and private) should abide by the following rules:
+This section defines our expectations for all content on Fosstodon, *regardless* of whether it is public, unlisted, followers-only, or addressed to specific people.
 
-* **Do not use slurs or racist, sexist, homophobic, transphobic, ableist or otherwise discriminatory or hateful jokes or language** or promote white supremacy, anti-Semitism, transphobia or other hateful ideologies.
-* **Do not harass anyone**, participate in group harassment of anyone, or otherwise engage in personal attacks. Posting or threatening to post other people’s personally identifying information ("doxing") constitutes harassment.
-* **Do not be intentionally antagonistic.** A post or reply designed to provoke a confrontation is not acceptable.
-* **Do not post adult content**, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
-* **Do not post spam**. Toots that are nothing other than a link and/or contain an inordinate number of hashtags constitute spam, as does any overly commercial self-promotion. (It is fine, however, to toot about your own projects and share what you are excited to be working on — just keep the toot itself interesting).
-* **Do not use automated tools to toot without participating in the community**. It is fine to post with an automated tool (e.g., a Twitter cross-poster) so long as you are an active member of the Fosstodon community and respond to replies you receive here. However, unmonitored accounts that post automatically are not acceptable.
-* **Do not ["shitpost"](https://en.wikipedia.org/wiki/Shitposting)** - while humorous posts are allowed, and actually encouraged, there is no place for "shitposting" on Fosstodon.
+The following are things we encourage while using Fosstodon:
+- *DO* toot your own horn and show us your authentic self. We want to know about cool things you are involved with and things you have achieved.
+- *DO* make use of blocking, muting, and labeling tools to tune out content you don't want to see. Social media can be triggering, stressful, and anxiety-inducing.
+- *DO* use hashtags and content warnings (CWs) to allow everyone else the opportunity to customize their feeds, too.
+- *DO* use an alt text when uploading pictures or videos, to support users who are blind or have low vision.
+- *DO* respect the lived experiences, boundaries, and agency of others. This includes avoiding the tone-policing of protests or giving unsolicited advice.
+- *DO* make a reasonable effort to respect how people identify themselves. It is good to check profiles before making assumptions!
+- *DO* demonstrate empathy and kindness to others.
+- *DO* accept accountability and responsibility, apologize to those affected by your mistakes, and learn from the experience.
+- *DO* prioritize the health and cohesiveness of the community. Remember we're all involved in FOSS; be collaborative here as well.
 
-## Additional Rules for Public Toots
+The following iterates the content that we absolutely do *not* want on Fosstodon:
+- *DO NOT* disparage individuals or groups based on race, ethnicity, national identity, spoken language, sex, gender identity or expression, sexuality, sexual orientation, physical or mental health status, disability, other body characteristics, age, culture, religion, personal philosophy, or political affiliation.
+- *DO NOT* use slurs, "dog-whistles", coded pejoratives, or otherwise publish content that is bigoted, supremacist, or hateful.
+- *DO NOT* harass, "dog-pile", defame, intimidate, threaten, expose private information about ("doxing"), or intentionally cause distress to other users.
+- *DO NOT* knowingly post misleading information, engage in deceptive or disruptive campaigns intended to incite alarm.
+- *DO NOT* participate in engagement that is intended to antagonize, inflame, or cause confrontation.
+- *DO NOT* post adult or age-restricted content. This includes nudity and other sexualized or violent content.
+- *DO NOT* post commercial promotions, or advertise through posts that are exclusively links and/or which contain excessive hashtags. This includes repetitive self-promotion for profit. We don't want spam.
+- *DO NOT* use automated tools to post without also monitoring and/or interacting from your account.
 
-Public toots should follow the above rules and should also abide by the following additional rules:
+Neither retribution, nor any sincerely-held belief or opinion, will be accepted as an excuse for any of the above.
 
-* **Do not post about inflammatory, controversial subjects without a Content Warning.** Ideally, you would not post about inflammatory subjects at all on the public timeline. However, it may be acceptable to do so in some cases, but it is never acceptable to post inflammatory toots without hiding the content behind an appropriate Content Warning.
-* Do not engage in name calling, [ad hominem](https://www.urbandictionary.com/define.php?term=Ad%20hominem) attacks, or any other uncivil behaviour; criticize ideas, never people.
-* **Do not tone police.** Other toots may violate the standards of civility we set on Fosstodon, but you should not criticize users for their tone. If the user is a member of the Fosstodon community, you should report them; if not, you should feel free to block them. In neither case should you criticize their tone.
+In cases of behavior that conflicts with this document, members are expected to contact the moderation team via the report tool, rather than attempt to enforce it themselves.
 
-Always remember that your public toots are read not only by our *existing* community members (who may have the context to know what you mean) but by potential future community members as well. Strive to keep the local timeline representative of the inclusive, friendly community we want to build.
+## Enforcement of this Code of Conduct
 
-## Federated accounts
+Moderation of Fosstodon is done collaboratively by a team that includes global representation from POC, as well as LGBTQIA+ and disabled folk. All decision-making communication, including the audit log, are visible to everyone in the Fosstodon team. All team members are committed to the [team covenant](#TBD), and will take a pragmatic and individual approach to each report.
 
-Behaviour on other Fediverse servers, or social media platforms, that are an egregious breach of this Code of Conduct *could* impact your account here on Fosstodon.
-
-This could include, but is not limited to, users of Fosstodon who have accounts on other servers and use those accounts in a manner that would contravene this CoC. For example, if the same person has an account on Fosstodon and on another instance, abides by this CoC on Fosstodon, but is on another server sharing their extremist beliefs, or attacking other users, they may have action taken against their Fosstodon account.
-
-{: .notice}
-**Please note:** this is applicable only in extreme circumstances. If you get into a minor argument with someone else, that's fine. We're not trying to Police the Fediverse here, we're simply trying to prevent Fosstodon from being a haven for bad actors, merely because they haven't broken this CoC with their Fosstodon account.
-
-## Reporting Violations
-
-If you notice a toot that violates this code of conduct, *please* report it. It is easy to assume that someone else has already reported a toot, but it is easy for everyone to feel that way [and no one to report the toot](https://en.wikipedia.org/wiki/Bystander_effect).
-
-### Let the moderators moderate
-
-If you see a toot that potentially contravenes this Code of Conduct, **do not** try to moderate, reprimand or enforce this CoC. That is the job of the moderation team.
-
-Instead, please report the toot to the moderation team, who will take appropriate action.
-
-## Catch-all
-
-The moderation team will always take a pragmatic approach to every report they receive - if they feel that a problematic Toot isn't explicitly called out in this CoC, yet is inappropriate for Fosstodon, the Toot will likely be removed and the member will be dealt with appropriately.
+In egregious circumstances, including but not limited to hate speech, extremist affiliation, or other behavior that is a danger to others, activity outside of Fosstodon may result in the suspension of member accounts. This is not a decision that will be made lightly, solely by any individual moderator, or without notable investigation.
