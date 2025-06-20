@@ -17,11 +17,11 @@ Fosstodon is a Mastodon instance that federates with many other servers in the f
 
 ### Intentions
 
-Fosstodon intends to provide a friendly environment for those who want a social media experience that prioritizes FOSS, where they can share their interests, passions, and achievements. Nobody should feel unwelcome on the basis of their skills, experience, or ability to read a manual; Fosstodon is *not* an experts-only space.
+Fosstodon intends to provide a friendly environment for those who want a social media experience that prioritizes FOSS, where you can share your interests, passions, and achievements. Nobody should feel unwelcome on the basis of their skills, experience, or ability to read a manual; Fosstodon is *not* an experts-only space.
 
 While using Fosstodon or engaging with Fosstodon members, everyone should be safe from harassment and similar antisocial behavior. As a community, we aim to curate a safe place for anyone, regardless of their characteristics including but not limited to: race, ethnicity, national identity, spoken language, sex, gender identity or expression, sexuality, sexual orientation, physical or mental health status, disability, other body characteristics, or age.
 
-Additionally, members are expected to practice tolerance of others' expressions of faith, personal philosophy, or political affiliation, *provided* those values do not conflict with this code of conduct or impact the safety of others. We do not want a [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance) on Fosstodon.
+Additionally, as members, you are expected to practice tolerance of others' expressions of faith, personal philosophy, or political affiliation, *provided* those values do not conflict with this code of conduct or impact the safety of others. We do not want a [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance) on Fosstodon.
 
 We understand that many members have strong opinions about "freedom of speech", however this is not a feature we offer.
 
@@ -54,7 +54,7 @@ The following iterates the content that we absolutely do *not* want on Fosstodon
 
 Neither retribution, nor any sincerely-held belief or opinion, will be accepted as an excuse for any of the above.
 
-In cases of behavior that conflicts with this document, members are expected to contact the moderation team via the report tool, rather than attempt to enforce it themselves.
+In cases of behavior that conflicts with this document, we expect you to contact the moderation team via the report tool, rather than attempt to enforce it yourself.
 
 #### Our local timeline
 
