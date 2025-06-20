@@ -27,16 +27,6 @@ We understand that many members have strong opinions about "freedom of speech", 
 
 ### Expectations
 
-#### Our local timeline
-
-The local timeline consists of public listed posts and replies that our members make. To help fulfil our intention of prioritizing FOSS discussion, members should make use of labeling tools that Mastodon provides for improved reach and individual curation. Hashtags and content warnings (CWs) help people customize their timelines. By using these tools, you make it possible for others to shape their experiences by allowing them to filter or hide content they don't want.
-
-Special care must be given for labeling topics that others are likely to find stressful. This includes, but is not limited to:
-- global and local politics,
-- controversial subjects,
-- non-FOSS activism, and
-- low-effort "[shitposting](https://en.wikipedia.org/wiki/Shitposting)".
-
 #### Conduct
 
 This section defines our expectations for all content on Fosstodon, *regardless* of whether it is public, unlisted, followers-only, or addressed to specific people.
@@ -65,6 +55,18 @@ The following iterates the content that we absolutely do *not* want on Fosstodon
 Neither retribution, nor any sincerely-held belief or opinion, will be accepted as an excuse for any of the above.
 
 In cases of behavior that conflicts with this document, members are expected to contact the moderation team via the report tool, rather than attempt to enforce it themselves.
+
+#### Our local timeline
+
+he local timeline consists of public listed posts and replies that our members make. To help fulfil our intention of prioritizing FOSS discussion, members should make use of labeling tools that Mastodon provides for improved reach and individual curation. Hashtags and content warnings (CWs) help people customize their timelines. By using these tools, you make it possible for others to shape their experiences by allowing them to filter or hide content they don't want.
+
+CWs are not a requirement for most content, however special care must be given for *labeling* topics that others may find overwhelming. This includes, but is not limited to:
+- global and local politics,
+- things likely to upset others such as graphic media, rants, etc.,
+- activism that does not contribute to improving FOSS or its communities, and
+- low-effort "[shitposting](https://en.wikipedia.org/wiki/Shitposting)".
+
+Using your best judgment with CWs is encouraged, however the moderation team may apply CWs to reported content they deem fall into any of the above categories.
 
 ## Enforcement of this Code of Conduct
 
