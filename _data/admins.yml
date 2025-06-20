@@ -5,13 +5,13 @@
   description: ✨ Projectmanager | Memefluencer | Tech nerd | FOSS enthusiast | DIY's ✨ One of Fosstodon's admins. Committed to keeping the fediverse safe, inclusive and fun. She/her. 🏳️‍🌈&🏳️‍⚧️ ally.
 
 - name: Krisfreedain
-  role: Moderator
+  role: Admin
   avatar: /assets/images/avatars/krisfreedain.webp
   link: https://fosstodon.org/@krisfreedain
   description: Community Manager for The OpenSearch Project & OpenSearch Software Foundation (at AWS) OpenSource | (opinions are my own) | father | husband | Buddhist | meditation | garage gym powerlifting | minimalism | he/him | Portland
 
 - name: Brandon
-  role: Moderator
+  role: Admin
   avatar: /assets/images/avatars/brandon.webp
   link: https://fosstodon.org/@btp
-  description: Moving slow and fixing things.
+  description: Moving slow and fixing things. Brandon is a NOC sys admin by day, and aspiring developer by night.
