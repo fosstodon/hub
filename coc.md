@@ -70,6 +70,6 @@ Using your best judgment with CWs is encouraged; however the moderation team may
 
 ## Enforcement of this Code of Conduct
 
-Moderation of Fosstodon is done collaboratively by a team that includes global representation from POC, as well as LGBTQIA+ and disabled folk. All decision-making communication, including the audit log, are visible to everyone in the Fosstodon team. All team members are committed to the [team covenant](https://hub.fosstodon.org/covenant), and will take a pragmatic and individual approach to each report.
+Moderation of Fosstodon is done collaboratively by a team that includes global representation from people of color, as well as LGBTQIA+ and disabled folk. All decision-making communication, including the audit log, are visible to everyone in the Fosstodon team. All team members are committed to the [team covenant](https://hub.fosstodon.org/covenant), and will take a pragmatic and individual approach to each report.
 
 In egregious circumstances, including but not limited to hate speech, extremist affiliation, or other behavior that is a danger to others, activity outside of Fosstodon may result in the suspension of member accounts. This is not a decision that will be made lightly, solely by any individual moderator, or without notable investigation.
