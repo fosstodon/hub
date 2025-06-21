@@ -66,7 +66,7 @@ CWs are not a requirement for most content, however special care must be given f
 - activism that does not contribute to improving FOSS or its communities, and
 - low-effort "[shitposting](https://en.wikipedia.org/wiki/Shitposting)".
 
-Using your best judgment with CWs is encouraged, however the moderation team may apply CWs to reported content they deem fall into any of the above categories.
+Using your best judgment with CWs is encouraged; however the moderation team may apply CWs to reported content they deem to fall into any of the above categories.
 
 ## Enforcement of this Code of Conduct
 
