@@ -46,7 +46,7 @@ The following iterates the content that we absolutely do *not* want on Fosstodon
 - *DO NOT* disparage individuals or groups based on race, ethnicity, national identity, spoken language, sex, gender identity or expression, sexuality, sexual orientation, physical or mental health status, disability, other body characteristics, age, culture, religion, personal philosophy, or political affiliation.
 - *DO NOT* use slurs, "dog-whistles", coded pejoratives, or otherwise publish content that is bigoted, supremacist, or hateful.
 - *DO NOT* harass, "dog-pile", defame, intimidate, threaten, expose private information about ("doxing"), or intentionally cause distress to other users.
-- *DO NOT* knowingly post misleading information, engage in deceptive or disruptive campaigns intended to incite alarm.
+- *DO NOT* knowingly post misleading information or engage in deceptive or disruptive campaigns intended to incite alarm.
 - *DO NOT* participate in engagement that is intended to antagonize, inflame, or cause confrontation.
 - *DO NOT* post adult or age-restricted content. This includes nudity and other sexualized or violent content.
 - *DO NOT* post commercial promotions, or advertise through posts that are exclusively links and/or which contain excessive hashtags. This includes repetitive self-promotion for profit. We don't want spam.

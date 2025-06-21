@@ -13,7 +13,7 @@ The Fosstodon team is responsible for the upkeep of Fosstodon. While not all mem
 2. Aim for safety, prioritize those who are vulnerable, and consider impact before intentions. This includes believing people when their own actions show us who they are.
 3. Consider our potential for ignorance, and trust those who bring concerns. We will verify before acting, and seek relevant advice when we have doubts.
 4. Engage with respect, acknowledge the humanity of all involved, and take the minimum action required to have a positive impact on safety.
-5. Bear the burden of criticism, take accountability for mistakes, and commit to meaningful action and change.
+5. Bear the burden of criticism, be accountable for mistakes, and commit to meaningful action and change.
 6. Moderate and lead with empathy, remember that individuals have different life experiences. Work to learn and let that guide your decisions.
 7. Treat all internal discussions, user reports, and moderation decisions with appropriate confidentiality. Respect the privacy and dignity of those involved.
 
