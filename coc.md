@@ -35,7 +35,7 @@ The following are things we encourage while using Fosstodon:
 - *DO* toot your own horn and show us your authentic self. We want to know about cool things you are involved with and things you have achieved.
 - *DO* make use of blocking, muting, and labeling tools to tune out content you don't want to see. Social media can be triggering, stressful, and anxiety-inducing.
 - *DO* use hashtags and content warnings (CWs) to allow everyone else the opportunity to customize their feeds, too.
-- *DO* use an alt text when uploading pictures or videos, to support users who are blind or have low vision.
+- *DO* use an alt text when uploading pictures or videos, to support users with visual impairment.
 - *DO* respect the lived experiences, boundaries, and agency of others. This includes avoiding the tone-policing of protests or giving unsolicited advice.
 - *DO* make a reasonable effort to respect how people identify themselves. It is good to check profiles before making assumptions!
 - *DO* demonstrate empathy and kindness to others.
