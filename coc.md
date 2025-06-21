@@ -21,7 +21,7 @@ Fosstodon intends to provide a friendly environment for those who want a social 
 
 While using Fosstodon or engaging with Fosstodon members, everyone should be safe from harassment and similar antisocial behavior. As a community, we aim to curate a safe place for anyone, regardless of their characteristics including but not limited to: race, ethnicity, national identity, spoken language, sex, gender identity or expression, sexuality, sexual orientation, physical or mental health status, disability, other body characteristics, or age.
 
-Additionally, as members, you are expected to practice tolerance of others' expressions of faith, personal philosophy, or political affiliation, *provided* those values do not conflict with this code of conduct or impact the safety of others. We do not want a [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance) on Fosstodon.
+Additionally, as members, you should tolerate the values of others, *provided* those values do not conflict with this code of conduct or impact the safety of others. We do not want a [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance) on Fosstodon.
 
 We understand that many members have strong opinions about "freedom of speech", however this is not a feature we offer.
 
