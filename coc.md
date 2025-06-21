@@ -58,7 +58,7 @@ In cases of behavior that conflicts with this document, we expect you to contact
 
 #### Our local timeline
 
-The local timeline consists of public listed posts and replies that our members make. To help fulfil our intention of prioritizing FOSS discussion, members should make use of labeling tools that Mastodon provides for improved reach and individual curation. Hashtags and content warnings (CWs) help people customize their timelines. By using these tools, you make it possible for others to shape their experiences by allowing them to filter or hide content they don't want.
+The local timeline consists of public listed posts and replies that our members make. To help fulfill our intention of prioritizing FOSS discussion, members should make use of labeling tools that Mastodon provides for improved reach and individual curation. Hashtags and content warnings (CWs) help people customize their timelines. By using these tools, you make it possible for others to shape their experiences by allowing them to filter or hide content they don't want.
 
 CWs are not a requirement for most content, however special care must be given for *labeling* topics that others may find overwhelming. This includes, but is not limited to:
 - global and local politics,
