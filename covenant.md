@@ -17,8 +17,7 @@ The Fosstodon team is responsible for the upkeep of Fosstodon. While not all mem
 6. Moderate and lead with empathy, remember that individuals have different life experiences. Work to learn and let that guide your decisions.
 7. Treat all internal discussions, user reports, and moderation decisions with appropriate confidentiality. Respect the privacy and dignity of those involved.
 
-Fosstodon moderation leans towards a one-strike policy before suspension of members.
-The exceptions for this are spam, and TOS-violating content including threats to safety, credible or otherwise.
+Fosstodon moderation leans towards a one-strike policy, giving members one chance after infringing on our Code of Conduct before suspension. The exceptions for this are spam and threats to safety, credible or otherwise.
 
 Moderation of remote users may escalate to defederation of their instance, if the instance is a repeat source of abuse or known to federate TOS-violating content.
 
