@@ -70,7 +70,7 @@ Using your best judgment with CWs is encouraged; however the moderation team may
 
 #### AI Generated Content & Slop
 
-AI content on Fosstodon needs to be excplicitly labeled with the hashtag #AI. Images that have been AI generated need to include an explicit statement in the ALT-text that it is AI generated. Our intention is to make this content unambiguous on Fosstodon, and allow users to easily filter this content from their timelines.
+AI content on Fosstodon needs to be explicitly labeled with the hashtag #AI. Images that have been AI generated need to include an explicit statement in the ALT-text that it is AI generated. Our intention is to make this content unambiguous on Fosstodon, and allow users to easily filter this content from their timelines.
 
 Examples of what qualifies as "AI content" are:
 - posts that contain AI generated images or video
