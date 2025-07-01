@@ -1,6 +1,6 @@
 ---
 title: Introducing the Fosstodon Foundation
-author: krisfreedain
+author: kris
 description: Announcing the Fosstodon Foundation!
 layout: post
 ---
