@@ -48,3 +48,5 @@ Signed, <br>
 [Gina Plat](https://fosstodon.org/@gina)<br>
 [Kris Freedain](https://fosstodon.org/@krisfreedain)<br>
 [Brandon Phillips](https://fosstodon.org/@btp)
+
+{% include pdf.html file="Deed_of_Incorporation_Fosstodon_EN.pdf" %}
