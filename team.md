@@ -16,7 +16,7 @@ Admins are responsible for all the stuff that goes on behind the scenes - like r
 
 {% for member in site.data.admins %}
 <div class="team-banner">
-    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <p class="team-title"><a rel="me" target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
     <img class="team-avatar" src="{{ member.avatar }}" />
     <p><b>Role:</b> {{ member.role }}</p>
     <p>{{ member.description }}</p>
@@ -31,7 +31,7 @@ Our Senior Moderators play a crucial role in offering support and guidance to th
 
 {% for member in site.data.senior-mods %}
 <div class="team-banner">
-    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <p class="team-title"><a rel="me" target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
     <img class="team-avatar" src="{{ member.avatar }}" />
     <p><b>Role:</b> {{ member.role }}</p>
     <p>{{ member.description }}</p>
@@ -66,7 +66,7 @@ In April 2025, both Kev and Mike decided to step down in their roles with Fossto
 
 {% for member in site.data.founders %}
 <div class="team-banner">
-    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <p class="team-title"><a rel="me" target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
     <img class="team-avatar" src="{{ member.avatar }}" />
     <p><b>Role:</b> {{ member.role }}</p>
     <p>{{ member.description }}</p>
