@@ -48,7 +48,7 @@ If you're interested in becoming a moderator, please [contact us](https://hub.fo
 
 {% for member in site.data.mods %}
 <div class="team-banner">
-    <p class="team-title"><a target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
+    <p class="team-title"><a rel="me" target="blank" href="{{ member.link }}">{{ member.name }}</a></p>
     <img class="team-avatar" src="{{ member.avatar }}" />
     <p><b>Role:</b> {{ member.role }}</p>
     <p>{{ member.description }}</p>
