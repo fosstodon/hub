@@ -8,13 +8,17 @@ mike:
   url: https://fosstodon.org/@mike
 gina:
   name: Gina
-  email: mail@fosstodon.org
+  email: gina@fosstodon.org
   url: https://fosstodon.org/@gina
 brandon:
   name: Brandon
-  email: mail@fosstodon.org
+  email: btp@fosstodon.org
   url: https://fosstodon.org/@btp
 kris:
   name: Kris
-  email: mail@fosstodon.org
+  email: kris@fosstodon.org
   url: https://fosstodon.org/@krisfreedain
+fosstodon:
+  name: The Fosstodon Team
+  email: mail@fosstodon.org
+  url: https://fosstodon.org/@fosstodon
