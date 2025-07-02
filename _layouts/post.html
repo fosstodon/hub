@@ -5,7 +5,6 @@ layout: default
 <!-- Insert author details -->
 {% assign author = site.data.authors[page.author] %}
 {% if author %}
-    <meta name="fediverse:creator" content={{ author.handle }}>
     <p class="post-meta">Written by: <a target="blank" href="{{ author.url }}">{{ author.name }}</a> &nbsp;|&nbsp; {{ page.date | date_to_string }}</p>
 {% endif %}
 
