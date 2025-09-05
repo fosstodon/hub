@@ -10,7 +10,7 @@ We want to extend our heartfelt gratitude to all our community members who have 
 
 ## How we assign funds
 
-When you make a donation, either by [Patreon](https://patreon.com/fosstodon) or [PayPal](https://paypal.me/fosstodonorg), it eventually ends up in our PayPal account. With this funding we do a couple of things:
+When you make a donation, either by [Patreon](https://patreon.com/fosstodon) or [PayPal](https://paypal.me/FosstodonFoundation), it eventually ends up in our PayPal account. With this funding we do a couple of things:
 
 1.  We keep a 6 month float of running costs; so we know we have funding in place should we need extra cash for things like an unexpected server upgrade.
 2.  Anything over and above our running costs is accumulated in to donations to open source projects that our Patrons get to choose. We tend to save these funds up so we can make meaningful donations – usually a minimum of $100/donation.
