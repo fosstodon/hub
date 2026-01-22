@@ -7,7 +7,7 @@ layout: post
 Hi everyone! Time for an update on how things are going with Fosstodon's finances and the transition to the Fosstodon Foundation.
 
 ### Foundation
-As you may remember, the Fosstodon Foundation was officially founded back in June 2025! Currently @Kris, @btp and @gina function as board members. Together with a team of 15 well-trained volunteers we take care of daily operations. On September 5th 2025, we took over the finances from former admins Kev and Mike, who had been expertly managing things for 8 years before that.
+As you may remember, the Fosstodon Foundation was officially founded back in June 2025! Currently [@Kris](https://fosstodon.org/@krisfreedain), [@btp](https://fosstodon.org/@btp) and [@gina](https://fosstodon.org/@gina) function as board members. Together with a team of 15 well-trained volunteers we take care of daily operations. On September 5th 2025, we took over the finances from former admins Kev and Mike, who had been expertly managing things for 8 years before that.
 
 We know some of you have been wondering why this transition took several months to complete. The reality is that establishing a foundation and navigating bank bureaucracy is a lengthy process. Especially during the summer holiday period in the Netherlands. Thanks for being patient with us while we were sorting through paperwork.
 
@@ -31,7 +31,7 @@ Fosstodon’s expenses are comprised of:
 |Bitwarden|Password manager|Yearly|€52,00|
 
 ### Looking Ahead
-These healthy reserves also speak to how well Kev and Mike took care of things. Besides managing Fosstodon’s funds responsibly, they also kept documentation and password management organized. Their stewardship made this whole transition way easier than it could have been, and we're really grateful for that.
+These healthy reserves speak to how well Kev and Mike took care of things. Besides managing Fosstodon’s funds responsibly, they also kept documentation and password management organized. Their stewardship made this whole transition way easier than it could have been, and we're really grateful for that.
 
 Historically Fosstodon has had a policy about keeping a 6-month financial cushion and donating anything beyond that. We're still figuring out exactly how to do this as we get used to the new setup. This will soon be brought up with you all. 
 
