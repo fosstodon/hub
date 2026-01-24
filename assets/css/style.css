@@ -184,3 +184,87 @@ hr {
   display: block;
   margin: 2.5rem auto;
 }
+
+header {
+  background-image: linear-gradient(to bottom, #6364f6, #5543d0);
+}
+
+header h1 {
+  color: transparent;
+  background-image: url("/assets/images/fosstodon-hub-header.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 70px;
+  margin: 70px auto;
+  margin-block-start: 100px !important;
+}
+
+.landing-left {
+  margin-top: 3rem;
+}
+
+@media only screen and (min-width: 700px)  {
+  .landing-left {
+    max-width: 70%;
+    float: left;
+  }
+
+  .landing-right {
+    max-width: 30%;
+    float: right;
+  }
+}
+
+/* Format the landing banners */
+.landing-banner {
+  background: var(--accent-bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  position: relative;
+  margin: 0.25rem;
+  padding: 1rem;
+  width: 45%;
+  min-width: 180px;
+  height: 250px;
+  float: left;
+}
+
+  .landing-banner svg {
+    position: relative;
+    margin: .5rem auto;
+    height: 65%;
+  }
+
+.landing-title {
+  font-size: 1.25em !important;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  text-align: center;
+}
+.landing-icon {
+  height: 200px;
+  text-align: center;
+}
+
+/* Make full width on mobile screens */
+@media only screen and (max-width: 420px)  {
+  .landing-left {
+    float: none;
+    min-width: none;
+    margin: 0 2rem;
+  }
+  .landing-banner {
+    height: 225px;
+    width: 100%;
+  }
+  .landing-banner svg {
+    height: 50%;
+  }
+}
+
+@media only screen and (max-width: 300px)  {
+  .landing-left {
+    margin: 0;
+  }
+}
