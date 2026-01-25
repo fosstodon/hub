@@ -13,7 +13,7 @@ in 2017.
 
 👋 [Meet the team!](/team)
 
-Running a social network is expensive. Originally funded out of the founders
+Running a social network is expensive. Originally funded out of the founders'
 pockets, the site eventually needed [support](/support) from the generous
 community that calls it home. Since we began taking donations, we have been
 committed to [being transparent](/finances) and "paying it forward" by
