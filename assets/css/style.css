@@ -16,6 +16,16 @@
   --disabled: #282d37;
 }
 
+@media (prefers-color-scheme: light) {
+  :root {
+    --text: #282d37;
+    --text-light: #1F232B;
+    --bg: #d9e1e8;
+    --accent-bg: #c6d2e1;
+  }
+
+}
+
 /* Override Simple.css Dark theme */
 @media (prefers-color-scheme: dark) {
   img, video {
@@ -27,6 +37,13 @@ main img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media (prefers-color-scheme: light) {
+  header nav a,
+  header nav a:visited {
+    color: var(--bg);
+  }
 }
 
 nav a:hover,
