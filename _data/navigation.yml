@@ -1,8 +1,8 @@
 - name: Home
   link: /
 
-- name: About
-  link: /about/
+- name: News
+  link: /news/
 
 - name: Code of Conduct
   link: /coc/

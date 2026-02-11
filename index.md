@@ -3,14 +3,15 @@ title: Fosstodon Hub
 header: Fosstodon Hub
 description: The largest FOSS focussed instance on the Fediverse.
 permalink: /
-layout: default
+layout: landing
 ---
 
-{% for post in site.posts %}
-  <p class="blog-item"><b><a href="{{ post.url }}">{{ post.title }}</a></b><br>
-  <span class="post-description">{{ post.description }}</span><br>
-  <span class="post-meta">📅 {{ post.date | date_to_string }}</span></p>
-{% endfor %}
+{% assign target_page = site.pages | where: "title", "About | Fosstodon Hub" | first %}
+{% if target_page %}
+  {{ target_page.content | markdownify }}
+{% else %}
+  <p>Error: Page not found.</p>
+{% endif %}
 
 <!-- **THESE LINKS ARE HIDDEN ON THE FRONT END** - they're only used for Mastodon verification purposes -->
 <div class="verification-links">

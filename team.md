@@ -4,13 +4,13 @@ description: A list of the Fosstodon team members and their roles.
 permalink: /team/
 layout: default
 ---
-# Meet The Team
+## Meet The Team
 
 It takes a lot of work to keep the Fosstodon running. Whether that's moderating reports, providing advice to moderators, creating and editing documentation, or just keeping the lights on and the wheels turning.
 
 This page lists all the amazing volunteers that keep this ship afloat.
 
-## Admins
+### Admins
 
 Admins are responsible for all the stuff that goes on behind the scenes - like responding to DDoS attacks, [large influxes of users](https://hub.fosstodon.org/elon-twitter-post-mortem/) and working with vendors like [Masto.host](https://masto.host) and [Fastly](https://fastly.com), to improve the service for all our members.
 
@@ -25,7 +25,7 @@ Admins are responsible for all the stuff that goes on behind the scenes - like r
 
 <div style="clear: both;"></div>
 
-## Senior Moderators
+### Senior Moderators
 
 Our Senior Moderators play a crucial role in offering support and guidance to the moderation team, in addition to crafting and enhancing the documentation that accompanies Fosstodon, such as [our Code of Conduct](https://hub.fosstodon.org/coc) and moderation guidelines. They are also actively involved in the ongoing development and enhancement of Fosstodon, contributing both technically and within the community, collaborating closely with the founders to ensure the platform's continued improvement.
 
@@ -40,7 +40,7 @@ Our Senior Moderators play a crucial role in offering support and guidance to th
 
 <div style="clear: both;"></div>
 
-## Moderators
+### Moderators
 
 The moderators are the unsung heroes of Fosstodon. They're the people who work every single report we receive, and take appropriate action to keep Fosstodon a friendly and inclusive place for all our members.
 
@@ -58,7 +58,7 @@ If you're interested in becoming a moderator, please [contact us](https://hub.fo
 <div style="clear: both;"></div>
 
 
-## Founders
+### Founders
 
 Kev and Mike are the founders of Fosstodon. It was their idea to start this whole thing in the first place. They started out simply wanting a vanity handle on the Fediverse, but later decided to open things up to other FOSS and tech enthusiasts. As so, Fosstodon was born.
 

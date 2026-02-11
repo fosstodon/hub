@@ -4,14 +4,14 @@ description: Information on how you can help keep the lights on.
 permalink: /support/
 layout: default
 ---
-# Support Us
+## Support Us
 
 Running a project like Fosstodon [can be expensive](/finances/) and take a lot of time. We have a fantastic team of volunteers to help moderate and manage Fosstodon, but if you want to help support the project financially you can do so in a number of ways:
 
 {% include donate-buttons.html %}
 
 
-## Stickers
+### Stickers
 
 ![](/assets/images/stickers.jpeg)
 
@@ -23,7 +23,7 @@ We would like to thank Fosstodon member, [Jens Reuterberg](https://fosstodon.org
 
 <a class="button" target="blank" href="https://www.designbyhumans.com/shop/Fosstodon/">Buy Stickers Now --></a>
 
-## Other ways to support us
+### Other ways to support us
 
 We don't just need financial support. If you don't want to support us financially, that's absolutely fine - Fosstodon is a free service and always will be.
 
@@ -33,7 +33,7 @@ If you're a Fosstodon member and want to contribute to the project without your 
 *   Keep sharing interesting posts that spark discussion and debate.
 *   Be excellent to each other.
 
-## Our Promise to you
+### Our Promise to you
 
 The last thing you want to see when you put your own money into a project is that money wasted or have that project disappear overnight without a trace. We understand that, and we want to be as transparent about this as possible.
 
@@ -43,6 +43,6 @@ If for some reason we decide to shutdown Fosstodon, we will stop taking contribu
 
 We love our community here at Fosstodon, and we have no plans to hit the Off switch, but because we know nothing can last forever we want to assure you that we won't just disappear and leave you high and dry.
 
-## Thank you
+### Thank you
 
 Finally, we wanted to end this page with a quick thank you. The support that the community gives us, both financially and otherwise, really helps Fosstodon to continue to go from strength to strength.
