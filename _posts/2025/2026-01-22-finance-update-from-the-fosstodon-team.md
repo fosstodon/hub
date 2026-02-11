@@ -24,7 +24,7 @@ Fosstodon’s expenses are comprised of:
 |Service|Details|Frequency|Amount|
 |-------|-------|---------|------|
 |Masto.host|Mastodon hosting provider fees|Monthly|€922,50|
-|Digital Ocean|Fee for Mattermost server|Montly|€18,38|
+|Digital Ocean|Fee for Mattermost server|Monthly|€18,38|
 |Cloud DNS|Fee for DNS|Monthly|€15,24|
 |DeepL API Pro|Translation service|Monthly|€34,99|
 |Bank fees|Fee for our greedy bank|Monthly|€7,99|
