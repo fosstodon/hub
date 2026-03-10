@@ -10,19 +10,6 @@ Running a project like Fosstodon [can be expensive](/finances/) and take a lot o
 
 {% include donate-buttons.html %}
 
-
-### Stickers
-
-![](/assets/images/stickers.jpeg)
-
-If you want to buy some Fosstodon stickers for your laptop (or anywhere else you fancy sticking them) you can buy them below. By purchasing Fosstodon stickers, not only will you have some really cool swag, but you will also be helping to support the project.
-
-The stickers measure approximately 7.5cm (3") across and 10cm (4") high.
-
-We would like to thank Fosstodon member, [Jens Reuterberg](https://fosstodon.org/@ohyran), for kindly donating his time and creating this really cool design.
-
-<a class="button" target="blank" href="https://www.designbyhumans.com/shop/Fosstodon/">Buy Stickers Now --></a>
-
 ### Other ways to support us
 
 We don't just need financial support. If you don't want to support us financially, that's absolutely fine - Fosstodon is a free service and always will be.
