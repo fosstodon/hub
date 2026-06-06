@@ -1,0 +1,186 @@
+/* Import the main SimpleCSS stylesheet */
+@import url("https://cdn.simplecss.org/simple.min.css");
+
+/* Overwrite simple.css colours with Mastodon colours */
+:root {
+  --bg: #282d37;
+  --accent-bg: #1F232B;
+  --text: #d9e1e8;
+  --text-light: #9baec8;
+  --dark-red: #951818;
+  --border: #9baec8;
+  --accent: #858AFA;
+  --code: #F06292;
+  --preformatted: #9baec8;
+  --marked: #79b9e7;
+  --disabled: #282d37;
+}
+
+/* Override Simple.css Dark theme */
+@media (prefers-color-scheme: dark) {
+  img, video {
+    opacity: 1;
+  }
+}
+
+main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav a:hover,
+nav a.current {
+  color: var(--accent) !important;
+  border-color: var(--accent) !important;
+  background: var(--bg);
+  filter: none !important;
+}
+
+nav a.current:hover {
+  text-decoration: none;
+}
+
+p {
+  margin: 1.5rem 0;
+}
+
+.post-description {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.post-meta {
+  color: var(--text-light);
+  font-size: .9rem;
+}
+
+.blog-item {
+  margin-bottom: 3rem;
+}
+
+.blog-item a {
+  font-size: 1.4rem;
+}
+
+.button {
+  border: none !important;
+  border-radius: 5px;
+  background: var(--accent);
+  font-size: 1rem;
+  color: var(--bg) !important;
+  text-decoration: none;
+  padding: 1rem 1.1rem !important;
+  margin: .5rem 0;
+  transition: .4s;
+}
+
+.post-title {
+  line-height: 1.3;
+  margin-bottom: 0;
+}
+
+/****** Format the notice boxes ******/
+
+.notice {
+  background: var(--accent-bg);
+  padding: 1rem 2rem;
+  border: 2px solid var(--text);
+  border-radius: 4px;
+  margin: 3rem 0;
+}
+
+.notice-red {
+  background: var(--dark-red);
+  color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+}
+
+.notice-red a {
+  color: #fff !important;
+  text-decoration: underline;
+  text-decoration-thickness: .15rem;
+}
+
+.notice-red a:hover {
+  text-decoration-style: dotted;
+}
+
+/* Format the team banners */
+.team-banner {
+  background: var(--accent-bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  position: relative;
+  margin: 0.25rem .5rem 0.25rem 0;
+  padding: 1rem;
+  width: 48.5%;
+  height: 400px;
+  float: left;
+}
+
+/* Make full width on mobile screens */
+@media only screen and (max-width: 700px)  {
+  .team-banner {
+    float: none;
+    margin: .5rem auto;
+    width: 90%;
+    height: auto;
+  }
+  .team-banner span {
+    position: relative;
+  }
+}
+
+.team-banner p {
+  margin-bottom: .5em;
+  font-size: 1rem;
+}
+
+.team-title {
+  font-size: 1.4em !important;
+  font-weight: bold;
+  margin: 0;
+}
+
+.team-avatar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 90px;
+  border-radius: 50%;
+  padding: 1rem;
+}
+
+.sub-heading {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: var(--text-light);
+  line-height: 1.3;
+}
+
+.center {
+  text-align: center;
+}
+
+.icon {
+  vertical-align: sub;
+  padding-right: .25rem;
+  display: inline-block;
+  width: 1.2em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+.verification-links {
+  display: none;
+}
+
+hr {
+  max-width: 60%;
+  display: block;
+  margin: 2.5rem auto;
+}
