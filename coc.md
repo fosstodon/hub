@@ -74,6 +74,8 @@ Fosstodon allows the use of AI-generated content. Stand-alone creative works (su
 
 Training models on content published on Fosstodon must involve the consent of the parties who publish that content.
 
+Fosstodon does not allow AI bots to post, we want to keep this place human.
+
 ## Enforcement of this Code of Conduct
 
 Moderation of Fosstodon is done collaboratively by a team that includes global representation from people of color, as well as LGBTQIA+ and disabled folk. All decision-making communication, including the audit log, are visible to everyone in the Fosstodon team. All team members are committed to the [team covenant](https://hub.fosstodon.org/covenant), and will take a pragmatic and individual approach to each report.
